@@ -9,7 +9,7 @@ import Intro from "./components/Intro";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/careerunisearch">
         <Header />
         <Routes>
           <Route path="/" exact element={<Home />} />

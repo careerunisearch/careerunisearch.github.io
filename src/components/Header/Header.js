@@ -15,13 +15,13 @@ function Header() {
         <i class="fa-solid fa-bars header_menu_icon"></i> */}
         <div className="header_menu_container">
           <a
-            href="https://careerunisearch.github.io/home"
+            href={`${process.env.PUBLIC_URL}/home`}
             className="header_menu_container_item"
           >
             Trang chủ
           </a>
           <a
-            href="https://careerunisearch.github.io/intro"
+            href={`${process.env.PUBLIC_URL}/intro`}
             className="header_menu_container_item"
           >
             Giới thiệu
