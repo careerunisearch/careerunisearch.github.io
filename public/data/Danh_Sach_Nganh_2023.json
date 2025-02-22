@@ -1,0 +1,6280 @@
+{
+    "BKA": [
+        {
+            "Ten_Nganh": "Kỹ thuật Sinh học",
+            "TSA": "51.84",
+            "DGNL": "0",
+            "TN_THPT": "24.60",
+            "Nhom_Nganh": "1, 4",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Thực phẩm",
+            "TSA": "56.05",
+            "DGNL": "0",
+            "TN_THPT": "24.49",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Thực phẩm (CT tiên tiến)",
+            "TSA": "54.80",
+            "DGNL": "0",
+            "TN_THPT": "22.70",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Sinh học (CT tiên tiến)",
+            "TSA": "52.95",
+            "DGNL": "0",
+            "TN_THPT": "21.00",
+            "Nhom_Nganh": "1, 4",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Hóa học",
+            "TSA": "50.60",
+            "DGNL": "0",
+            "TN_THPT": "23.70",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Hóa học",
+            "TSA": "51.58",
+            "DGNL": "0",
+            "TN_THPT": "23.04",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật In",
+            "TSA": "53.96",
+            "DGNL": "0",
+            "TN_THPT": "22.70",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Hóa dược (CT tiên tiến)",
+            "TSA": "55.83",
+            "DGNL": "0",
+            "TN_THPT": "23.44",
+            "Nhom_Nganh": "4, 5",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Công nghệ Giáo dục",
+            "TSA": "58.69",
+            "DGNL": "0",
+            "TN_THPT": "24.55",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật điện",
+            "TSA": "61.27",
+            "DGNL": "0",
+            "TN_THPT": "25.55",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Điều khiển & Tự động hóa",
+            "TSA": "72.23",
+            "DGNL": "0",
+            "TN_THPT": "27.57",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Hệ thống điện và năng lượng tái tạo (CT tiên tiến)",
+            "TSA": "56.27",
+            "DGNL": "0",
+            "TN_THPT": "24.47",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Điều khiển - Tự động hóa (CT tiên tiến)",
+            "TSA": "68.74",
+            "DGNL": "0",
+            "TN_THPT": "26.47",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Tin học Công nghiệp và Tự động hóa (CT Việt - Pháp PFIEV)",
+            "TSA": "58.29",
+            "DGNL": "0",
+            "TN_THPT": "25.14",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 78",
+            "Hoc_Phi_Moi_Nam_Tu": "25",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản lý Năng lượng",
+            "TSA": "53.29",
+            "DGNL": "0",
+            "TN_THPT": "24.98",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Quản lý Công nghiệp",
+            "TSA": "53.55",
+            "DGNL": "0",
+            "TN_THPT": "25.39",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Quản trị Kinh doanh",
+            "TSA": "55.58",
+            "DGNL": "0",
+            "TN_THPT": "25.83",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kế toán",
+            "TSA": "51.04",
+            "DGNL": "0",
+            "TN_THPT": "25.52",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Tài chính - Ngân hàng",
+            "TSA": "52.45",
+            "DGNL": "0",
+            "TN_THPT": "25.75",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Phân tích Kinh doanh (CT tiên tiến)",
+            "TSA": "51.42",
+            "DGNL": "0",
+            "TN_THPT": "25.47",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Logistics và Quản lý Chuỗi cung ứng (CT tiên tiến)",
+            "TSA": "52.57",
+            "DGNL": "0",
+            "TN_THPT": "25.69",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Điện tử - Viễn thông",
+            "TSA": "66.46",
+            "DGNL": "0",
+            "TN_THPT": "26.46",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Y sinh",
+            "TSA": "56.03",
+            "DGNL": "0",
+            "TN_THPT": "25.04",
+            "Nhom_Nganh": "1, 4",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Truyền thông số và Kỹ thuật Đa phương tiện (CT tiên tiến)",
+            "TSA": "62.72",
+            "DGNL": "0",
+            "TN_THPT": "25.73",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Điện tử - Viễn thông (CT tiên tiến)",
+            "TSA": "64.17",
+            "DGNL": "0",
+            "TN_THPT": "25.99",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Y sinh (CT tiên tiến)",
+            "TSA": "56.55",
+            "DGNL": "0",
+            "TN_THPT": "23.70",
+            "Nhom_Nganh": "1, 4",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Hệ thống nhúng thông minh và IoT (tăng cường tiếng Nhật)",
+            "TSA": "65.23",
+            "DGNL": "0",
+            "TN_THPT": "26.45",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 77",
+            "Hoc_Phi_Moi_Nam_Tu": "25",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Điện tử - Viễn thông - ĐH Leibniz Hannover (CHLB Đức)",
+            "TSA": "56.67",
+            "DGNL": "0",
+            "TN_THPT": "24.30",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 75",
+            "Hoc_Phi_Moi_Nam_Tu": "25",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Môi trường",
+            "TSA": "51.12",
+            "DGNL": "0",
+            "TN_THPT": "21.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Quản lý Tài nguyên và Môi trường",
+            "TSA": "50.60",
+            "DGNL": "0",
+            "TN_THPT": "21.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Tiếng Anh KHKT và Công Nghệ",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.45",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Tiếng Anh chuyên nghiệp quốc tế (liên kết với ĐH Plymouth Marjon-Vương quốc Anh)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.17",
+            "Nhom_Nganh": "2, 3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "34",
+            "Hoc_Phi_Moi_Nam_Den": "44"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Nhiệt",
+            "TSA": "53.84",
+            "DGNL": "0",
+            "TN_THPT": "23.94",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "CNTT: Khoa học Máy tính",
+            "TSA": "83.90",
+            "DGNL": "0",
+            "TN_THPT": "29.42",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "CNTT: Kỹ thuật Máy tính",
+            "TSA": "79.22",
+            "DGNL": "0",
+            "TN_THPT": "28.29",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Khoa học Dữ liệu và Trí tuệ Nhân tạo (CT tiên tiến)",
+            "TSA": "83.97",
+            "DGNL": "0",
+            "TN_THPT": "28.80",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "34",
+            "Hoc_Phi_Moi_Nam_Den": "44"
+        },
+        {
+            "Ten_Nganh": "An toàn không gian số - Cyber Security (CT tiên tiến)",
+            "TSA": "76.61",
+            "DGNL": "0",
+            "TN_THPT": "28.05",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Công nghệ Thông tin Việt - Nhật (tăng cường tiếng Nhật)",
+            "TSA": "72.03",
+            "DGNL": "0",
+            "TN_THPT": "27.64",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 77",
+            "Hoc_Phi_Moi_Nam_Tu": "25",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Công nghệ Thông tin Global ICT (CT tiên tiến)",
+            "TSA": "79.12",
+            "DGNL": "0",
+            "TN_THPT": "28.16",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Công nghệ Thông tin Việt - Pháp (tăng cường tiếng Pháp)",
+            "TSA": "69.67",
+            "DGNL": "0",
+            "TN_THPT": "27.32",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 78",
+            "Hoc_Phi_Moi_Nam_Tu": "25",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Cơ điện tử",
+            "TSA": "65.81",
+            "DGNL": "0",
+            "TN_THPT": "26.75",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Cơ khí",
+            "TSA": "57.23",
+            "DGNL": "0",
+            "TN_THPT": "24.96",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Cơ điện tử (CT tiên tiến)",
+            "TSA": "60.00",
+            "DGNL": "0",
+            "TN_THPT": "25.47",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Cơ khí Chế tạo máy - hợp tác ĐH Griffith (Australia)",
+            "TSA": "52.45",
+            "DGNL": "0",
+            "TN_THPT": "23.32",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "25",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Cơ điện tử - hợp tác với ĐH Leibniz Hannover (CHLB Đức)",
+            "TSA": "56.08",
+            "DGNL": "0",
+            "TN_THPT": "24.02",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 75",
+            "Hoc_Phi_Moi_Nam_Tu": "25",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản)",
+            "TSA": "53.95",
+            "DGNL": "0",
+            "TN_THPT": "23.85",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 77",
+            "Hoc_Phi_Moi_Nam_Tu": "25",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Toán - Tin",
+            "TSA": "70.57",
+            "DGNL": "0",
+            "TN_THPT": "27.21",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Hệ thống Thông tin quản lý",
+            "TSA": "67.29",
+            "DGNL": "0",
+            "TN_THPT": "27.06",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Vật liệu",
+            "TSA": "54.37",
+            "DGNL": "0",
+            "TN_THPT": "23.25",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Vi điện tử và Công nghệ Nano",
+            "TSA": "63.66",
+            "DGNL": "0",
+            "TN_THPT": "26.18",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Công nghệ vật liệu Polymer và Compozit",
+            "TSA": "52.51",
+            "DGNL": "0",
+            "TN_THPT": "23.70",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Khoa học và Kỹ thuật Vật liệu (CT tiên tiến)",
+            "TSA": "50.40",
+            "DGNL": "0",
+            "TN_THPT": "21.50",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Vật lý Kỹ thuật",
+            "TSA": "54.68",
+            "DGNL": "0",
+            "TN_THPT": "24.28",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Hạt nhân",
+            "TSA": "52.56",
+            "DGNL": "0",
+            "TN_THPT": "22.31",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 3",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Vật lý Y khoa",
+            "TSA": "53.02",
+            "DGNL": "0",
+            "TN_THPT": "24.02",
+            "Nhom_Nganh": "4, 5",
+            "Khoi_Thi": "1, 2, 3",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Ô tô",
+            "TSA": "64.28",
+            "DGNL": "0",
+            "TN_THPT": "26.48",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Cơ Khí Động Lực",
+            "TSA": "56.41",
+            "DGNL": "0",
+            "TN_THPT": "25.31",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Hàng không",
+            "TSA": "60.39",
+            "DGNL": "0",
+            "TN_THPT": "25.50",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật Ô tô (CT tiên tiến)",
+            "TSA": "57.40",
+            "DGNL": "0",
+            "TN_THPT": "25.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "22",
+            "Hoc_Phi_Moi_Nam_Den": "33"
+        },
+        {
+            "Ten_Nganh": "Cơ khí Hàng Không (CT Việt - Pháp PFIEV)",
+            "TSA": "51.50",
+            "DGNL": "0",
+            "TN_THPT": "23.70",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 78",
+            "Hoc_Phi_Moi_Nam_Tu": "25",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản trị Kinh doanh - ĐH Troy (Hoa Kỳ)",
+            "TSA": "51.11",
+            "DGNL": "0",
+            "TN_THPT": "23.70",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "25",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Khoa học Máy tính - ĐH Troy (Hoa Kỳ)",
+            "TSA": "60.12",
+            "DGNL": "0",
+            "TN_THPT": "24.96",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "25",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Công nghệ Dệt May",
+            "TSA": "50.70",
+            "DGNL": "0",
+            "TN_THPT": "21.40",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17",
+            "Hoc_Phi_Moi_Nam_Den": "22"
+        }
+    ],
+    "QHI": [
+        {
+            "Ten_Nganh": "Công nghệ thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.85",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Công nghệ nông nghiệp",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22",
+            "Nhom_Nganh": "1, 8",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật điều khiển và tự động hóa",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.1",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Trí tuệ nhân tạo",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.2",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật năng lượng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.8",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "\tCông nghệ thông tin định hướng thị trường Nhật Bản",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.5",
+            "Nhom_Nganh": "1, 3",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "\tKỹ thuật Robot",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.35",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật máy tính",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.25",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Vật lý kỹ thuật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.2",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Cơ kỹ thuật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.65",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.1",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Công nghệ Hàng không vũ trụ",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.1",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "\tHệ thống thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.95",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Mạng máy tính và truyền thông dữ liệu",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.25",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "\tCông nghệ kỹ thuật cơ điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật điện tử – viễn thông",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.15",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 51",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "\tKhoa học máy tính",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.1",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 52",
+            "Hoc_Phi_Moi_Nam_Tu": "32",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        }
+    ],
+    "QHX": [
+        {
+            "Ten_Nganh": "Báo chí",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Báo chí",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "28.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Báo chí",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50,53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Báo chí",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Chính trị học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Chính trị học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Chính trị học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Chính trị học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.7",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Chính trị học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.6",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Công tác xã hội",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Công tác xã hội",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.3",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Công tác xã hội",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.8",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Công tác xã hội",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Công tác xã hội",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Đông Nam Á học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Đông Nam Á học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Đông Nam Á học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Đông phương học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "28.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Đông phương học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.55",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Đông phương học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Đông phương học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Hán Nôm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Hán Nôm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.15",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Hán Nôm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Hán Nôm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Khoa học quản lý",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Khoa học quản lý",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Khoa học quản lý",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50,53,127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Lịch sử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Lịch sử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Lịch sử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.4",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Lịch sử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.47",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Lưu trữ học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Lưu trữ học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.8",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Lưu trữ học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50,127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Lưu trữ học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.4",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Nhân học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Nhân học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Nhân học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.15",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Nhân học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Nhân học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.2",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Nhật Bản học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "55",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Nhật Bản học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Nhật Bản học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quan hệ công chúng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "28.78",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quan hệ công chúng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quan hệ công chúng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.2",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quan hệ công chúng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản lý thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản lý thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản lý thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.8",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản lý thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản trị dịch vụ du lịch và lữ hành",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.5",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản trị dịch vụ du lịch và lữ hành",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản trị dịch vụ du lịch và lữ hành",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.4",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản trị khách sạn",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.5",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50,127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản trị khách sạn",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.1",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản trị văn phòng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản trị văn phòng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản trị văn phòng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản trị văn phòng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quản trị văn phòng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quốc tế học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quốc tế học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.7",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quốc tế học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quốc tế học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.4",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Quốc tế học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Tâm lý học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Tâm lý học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Tâm lý học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Tâm lý học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Tâm lý học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Thông tin - Thư viện",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Thông tin - Thư viện",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Thông tin - Thư viện",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.8",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Thông tin - Thư viện",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Tôn giáo học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Tôn giáo học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Tôn giáo học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Tôn giáo học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Tôn giáo học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.6",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Triết học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Triết học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.4",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Triết học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Triết học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Triết học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.3",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Văn học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.8",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Văn học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Văn học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Văn học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Việt Nam học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Việt Nam học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Việt Nam học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Việt Nam học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Xã hội học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Xã hội học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.2",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Xã hội học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Xã hội học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.7",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Xã hội học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.1",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Hàn Quốc học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.75",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Hàn Quốc học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "28.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Hàn Quốc học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Hàn Quốc học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "150",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Hàn Quốc học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Văn hóa học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.3",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Văn hóa học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.6",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "50,127",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Văn hóa học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.5",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        }
+    ],
+    "QHL": [
+        {
+            "Ten_Nganh": "Luật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27,5",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24,35",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,1",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24,6",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "52",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,1",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24,28",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "131",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật chất lượng cao",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,1",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật chất lượng cao",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,1",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật chất lượng cao",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,1",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "56",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật chất lượng cao",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,1",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật Thương mại quốc tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,7",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật Thương mại quốc tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,7",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật Thương mại quốc tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,7",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật Thương mại quốc tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,7",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật Thương mại quốc tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,7",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "131",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật Kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,29",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật Kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,29",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật Kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,29",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật Kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,29",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "52",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật Kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,29",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "127",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        },
+        {
+            "Ten_Nganh": "Luật Kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,29",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "131",
+            "Hoc_Phi_Moi_Nam_Tu": "12,41",
+            "Hoc_Phi_Moi_Nam_Den": "12,41"
+        }
+    ],
+    "QHE": [
+        {
+            "Ten_Nganh": "Kinh tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34.83",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2, 50, 58, 59",
+            "Hoc_Phi_Moi_Nam_Tu": "44",
+            "Hoc_Phi_Moi_Nam_Den": "44"
+        },
+        {
+            "Ten_Nganh": "Kinh tế phát triển",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34.25",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2, 50, 58, 60",
+            "Hoc_Phi_Moi_Nam_Tu": "44",
+            "Hoc_Phi_Moi_Nam_Den": "44"
+        },
+        {
+            "Ten_Nganh": "Kinh tế quốc tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "35.7",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2, 50, 58, 61",
+            "Hoc_Phi_Moi_Nam_Tu": "44",
+            "Hoc_Phi_Moi_Nam_Den": "44"
+        },
+        {
+            "Ten_Nganh": "Quản trị kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34.54",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2, 50, 58, 62",
+            "Hoc_Phi_Moi_Nam_Tu": "44",
+            "Hoc_Phi_Moi_Nam_Den": "44"
+        },
+        {
+            "Ten_Nganh": "Tài chính - Ngân hàng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34.25",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2, 50, 58, 63",
+            "Hoc_Phi_Moi_Nam_Tu": "44",
+            "Hoc_Phi_Moi_Nam_Den": "44"
+        },
+        {
+            "Ten_Nganh": "Kế toán",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34.1",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2, 50, 58, 64",
+            "Hoc_Phi_Moi_Nam_Tu": "44",
+            "Hoc_Phi_Moi_Nam_Den": "44"
+        }
+    ],
+    "QHT": [
+        {
+            "Ten_Nganh": "Toán học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "33,4",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Toán tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34,25",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Khoa học máy tính và thông tin(*)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34,7",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Khoa học dữ liệu",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34,85",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Vật lý học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24,2",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Khoa học vật liệu",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22,5",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật hạt nhân",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21,3",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật điện tử và tin học(*)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25,65",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Hoá học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23,65",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật hoá học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23,25",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Hoá dược",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24,6",
+            "Nhom_Nganh": "1, 4, 5",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Sinh học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Công nghệ sinh học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24,05",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 3, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Sinh dược học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23",
+            "Nhom_Nganh": "4, 5",
+            "Khoi_Thi": "1, 3, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Địa lý tự nhiên",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20,3",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Khoa học thông tin địa không gian(*)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20,4",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Quản lý đất đai",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20,9",
+            "Nhom_Nganh": "2, 5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Quản lý phát triển đô thị và bất động sản(*)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22,45",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 20, 59",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Khoa học môi trường",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật môi trường",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "1, 5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Khoa học và công nghệ thực phẩm(*)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24,35",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Môi trường, sức khỏe và an toàn",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Khí tượng và khí hậu học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Hải dương học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Tài nguyên và môi trường nước(*)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Địa chất học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "2, 5",
+            "Khoi_Thi": "1, 2, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Quản lý tài nguyên và môi trường",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        },
+        {
+            "Ten_Nganh": "Công nghệ quan trắc và giám sát tài nguyên môi trường*",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1, 2, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "37"
+        }
+    ],
+    "QHF": [
+        {
+            "Ten_Nganh": "Sư phạm tiếng Anh",
+            "TSA": "0",
+            "DGNL": "120",
+            "TN_THPT": "37.21",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 63",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "15"
+        },
+        {
+            "Ten_Nganh": "Sư phạm tiếng Trung",
+            "TSA": "0",
+            "DGNL": "120",
+            "TN_THPT": "35.90",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 53",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "15"
+        },
+        {
+            "Ten_Nganh": "Sư phạm tiếng Đức",
+            "TSA": "0",
+            "DGNL": "120",
+            "TN_THPT": "0",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 54",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "15"
+        },
+        {
+            "Ten_Nganh": "Sư phạm tiếng Nhật",
+            "TSA": "0",
+            "DGNL": "120",
+            "TN_THPT": "35.61",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 55",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "15"
+        },
+        {
+            "Ten_Nganh": "Sư phạm tiếng Hàn Quốc",
+            "TSA": "0",
+            "DGNL": "110",
+            "TN_THPT": "36.23",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 150",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "15"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Anh",
+            "TSA": "0",
+            "DGNL": "90",
+            "TN_THPT": "35,55",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 63",
+            "Hoc_Phi_Moi_Nam_Tu": "35",
+            "Hoc_Phi_Moi_Nam_Den": "35"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Nga",
+            "TSA": "0",
+            "DGNL": "95",
+            "TN_THPT": "33,3",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 51",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "15"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Pháp",
+            "TSA": "0",
+            "DGNL": "105",
+            "TN_THPT": "34.12",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 52",
+            "Hoc_Phi_Moi_Nam_Tu": "35",
+            "Hoc_Phi_Moi_Nam_Den": "35"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Trung Quốc",
+            "TSA": "0",
+            "DGNL": "95",
+            "TN_THPT": "35.55",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 53",
+            "Hoc_Phi_Moi_Nam_Tu": "35",
+            "Hoc_Phi_Moi_Nam_Den": "35"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Đức",
+            "TSA": "0",
+            "DGNL": "100",
+            "TN_THPT": "34.35",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 54",
+            "Hoc_Phi_Moi_Nam_Tu": "35",
+            "Hoc_Phi_Moi_Nam_Den": "35"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Nhật",
+            "TSA": "0",
+            "DGNL": "105",
+            "TN_THPT": "34.65",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 55",
+            "Hoc_Phi_Moi_Nam_Tu": "35",
+            "Hoc_Phi_Moi_Nam_Den": "35"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Hàn Quốc",
+            "TSA": "0",
+            "DGNL": "90",
+            "TN_THPT": "35.40",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 150",
+            "Hoc_Phi_Moi_Nam_Tu": "35",
+            "Hoc_Phi_Moi_Nam_Den": "35"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Ả Rập",
+            "TSA": "0",
+            "DGNL": "105",
+            "TN_THPT": "33.04",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 63",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "15"
+        },
+        {
+            "Ten_Nganh": "Văn hóa & Truyền thông xuyên quốc gia",
+            "TSA": "0",
+            "DGNL": "90",
+            "TN_THPT": "34.49",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 127, 139, 63",
+            "Hoc_Phi_Moi_Nam_Tu": "15",
+            "Hoc_Phi_Moi_Nam_Den": "15"
+        },
+        {
+            "Ten_Nganh": "Kinh tế – Tài chính",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.68",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50, 2, 127, 63",
+            "Hoc_Phi_Moi_Nam_Tu": "0",
+            "Hoc_Phi_Moi_Nam_Den": "0"
+        }
+    ],
+    "QHS": [
+        {
+            "Ten_Nganh": "Sư phạm Toán và Khoa học Tự nhiên (Gồm 5 ngành: Sư phạm Toán học; Sư phạm Vật lý; Sư phạm Hóa học; Sư phạm Sinh học; Sư phạm Khoa học Tư nhiên)",
+            "TSA": "0",
+            "DGNL": "100",
+            "TN_THPT": "25,58",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "1, 2, 20, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "0",
+            "Hoc_Phi_Moi_Nam_Den": "0"
+        },
+        {
+            "Ten_Nganh": "Sư phạm Ngữ văn, Lịch sử, Lịch sử và Địa lý (gồm 3 ngành: Sư phạm Ngữ văn; Sư phạm Lịch sử; Sư phạm Lịch sử và Địa lý)",
+            "TSA": "0",
+            "DGNL": "80",
+            "TN_THPT": "27,17",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "29, 50, 63, 64",
+            "Hoc_Phi_Moi_Nam_Tu": "0",
+            "Hoc_Phi_Moi_Nam_Den": "0"
+        },
+        {
+            "Ten_Nganh": "Khoa học Giáo dục và Khác (gồm 5 ngành: Khoa học Giáo dục; Quản trị Chất lượng Giáo dục; Quản trị trường học; Quản trị Công nghệ Giáo dục; Tham vấn học đường)",
+            "TSA": "0",
+            "DGNL": "100",
+            "TN_THPT": "20,5",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "1, 20, 29, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "9,8",
+            "Hoc_Phi_Moi_Nam_Den": "11,7"
+        },
+        {
+            "Ten_Nganh": "Giáo dục tiểu học",
+            "TSA": "0",
+            "DGNL": "100",
+            "TN_THPT": "27,47",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "1, 20, 29, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "0",
+            "Hoc_Phi_Moi_Nam_Den": "0"
+        },
+        {
+            "Ten_Nganh": "Giáo dục mầm non",
+            "TSA": "0",
+            "DGNL": "100",
+            "TN_THPT": "25,39",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "1, 20, 29, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "0",
+            "Hoc_Phi_Moi_Nam_Den": "0"
+        }
+    ],
+    "QHY": [
+        {
+            "Ten_Nganh": "Y khoa",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26,75",
+            "Nhom_Nganh": "4",
+            "Khoi_Thi": "20",
+            "Hoc_Phi_Moi_Nam_Tu": "55",
+            "Hoc_Phi_Moi_Nam_Den": "55"
+        },
+        {
+            "Ten_Nganh": "Dược học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24,35",
+            "Nhom_Nganh": "4",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "51",
+            "Hoc_Phi_Moi_Nam_Den": "51"
+        },
+        {
+            "Ten_Nganh": "Răng hàm mặt",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26,80",
+            "Nhom_Nganh": "4",
+            "Khoi_Thi": "20",
+            "Hoc_Phi_Moi_Nam_Tu": "27,60",
+            "Hoc_Phi_Moi_Nam_Den": "27,60"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xét nghiệm y học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23,95",
+            "Nhom_Nganh": "4",
+            "Khoi_Thi": "20",
+            "Hoc_Phi_Moi_Nam_Tu": "27,60",
+            "Hoc_Phi_Moi_Nam_Den": "27,60"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật hình ảnh y học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23,55",
+            "Nhom_Nganh": "4",
+            "Khoi_Thi": "20",
+            "Hoc_Phi_Moi_Nam_Tu": "27,60",
+            "Hoc_Phi_Moi_Nam_Den": "27,60"
+        },
+        {
+            "Ten_Nganh": "Điều dưỡng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23,85",
+            "Nhom_Nganh": "4",
+            "Khoi_Thi": "20",
+            "Hoc_Phi_Moi_Nam_Tu": "27,60",
+            "Hoc_Phi_Moi_Nam_Den": "27,60"
+        }
+    ],
+    "QHQ": [
+        {
+            "Ten_Nganh": "Kinh doanh quốc tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24,35",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 52, 55, 145, 146, 149",
+            "Hoc_Phi_Moi_Nam_Tu": "50,60",
+            "Hoc_Phi_Moi_Nam_Den": "50,60"
+        },
+        {
+            "Ten_Nganh": "Kế toán, Phân tích và Kiểm toán",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22,90",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 52, 55, 145, 146, 149",
+            "Hoc_Phi_Moi_Nam_Tu": "50,60",
+            "Hoc_Phi_Moi_Nam_Den": "50,60"
+        },
+        {
+            "Ten_Nganh": "Hệ thống thông tin quản lý",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22,60",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 52, 55, 145, 146, 149",
+            "Hoc_Phi_Moi_Nam_Tu": "35,25",
+            "Hoc_Phi_Moi_Nam_Den": "35,25"
+        },
+        {
+            "Ten_Nganh": "Tin học và Kỹ thuật máy tính",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21,00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 52, 55, 56, 72, 73",
+            "Hoc_Phi_Moi_Nam_Tu": "41,00",
+            "Hoc_Phi_Moi_Nam_Den": "41,00"
+        },
+        {
+            "Ten_Nganh": "Marketing (song bằng VNU – HELP, Malaysia)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22,75",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 52, 55, 145, 146, 149",
+            "Hoc_Phi_Moi_Nam_Tu": "80,50",
+            "Hoc_Phi_Moi_Nam_Den": "80,50"
+        },
+        {
+            "Ten_Nganh": "Quản lý (song bằng VNU – Keuka, Hoa Kỳ)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21,00",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 52, 55, 145, 146, 149",
+            "Hoc_Phi_Moi_Nam_Tu": "112,70",
+            "Hoc_Phi_Moi_Nam_Den": "112,70"
+        },
+        {
+            "Ten_Nganh": "Phân tích dữ liệu kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23,60",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 52, 55, 56, 72, 73",
+            "Hoc_Phi_Moi_Nam_Tu": "35,25",
+            "Hoc_Phi_Moi_Nam_Den": "35,25"
+        },
+        {
+            "Ten_Nganh": "Tự động hoá và Tin học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21,00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 52, 55, 56, 72, 73",
+            "Hoc_Phi_Moi_Nam_Tu": "41,00",
+            "Hoc_Phi_Moi_Nam_Den": "41,00"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Anh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23,85",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2, 50, 127, 139",
+            "Hoc_Phi_Moi_Nam_Tu": "37,50",
+            "Hoc_Phi_Moi_Nam_Den": "37,50"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin ứng dụng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21,85",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 52, 55, 56, 72, 73",
+            "Hoc_Phi_Moi_Nam_Tu": "41,00",
+            "Hoc_Phi_Moi_Nam_Den": "41,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ tài chính và Kinh doanh số",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22,25",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 52, 55, 56, 72, 73",
+            "Hoc_Phi_Moi_Nam_Tu": "41,00",
+            "Hoc_Phi_Moi_Nam_Den": "41,00"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật hệ thống công nghiệp và Logistics",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22,00",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1, 2, 50, 52, 55, 56, 72, 73",
+            "Hoc_Phi_Moi_Nam_Tu": "41,00",
+            "Hoc_Phi_Moi_Nam_Den": "41,00"
+        }
+    ],
+    "LDA": [
+        {
+            "Ten_Nganh": "Ngôn ngữ Anh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "32",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 63, 64",
+            "Hoc_Phi_Moi_Nam_Tu": "11.8",
+            "Hoc_Phi_Moi_Nam_Den": "11.8"
+        },
+        {
+            "Ten_Nganh": "Kinh tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.3",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.3",
+            "Hoc_Phi_Moi_Nam_Den": "12.3"
+        },
+        {
+            "Ten_Nganh": "Xã hội học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2, 29, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11.8",
+            "Hoc_Phi_Moi_Nam_Den": "11.8"
+        },
+        {
+            "Ten_Nganh": "Việt Nam học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "29, 50, 63, 64",
+            "Hoc_Phi_Moi_Nam_Tu": "12.3",
+            "Hoc_Phi_Moi_Nam_Den": "12.3"
+        },
+        {
+            "Ten_Nganh": "Quản trị kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.8",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.3",
+            "Hoc_Phi_Moi_Nam_Den": "12.3"
+        },
+        {
+            "Ten_Nganh": "Tài chính - Ngân hàng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.2",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.3",
+            "Hoc_Phi_Moi_Nam_Den": "12.3"
+        },
+        {
+            "Ten_Nganh": "Kế toán",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.15",
+            "Nhom_Nganh": "2 ",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11.8",
+            "Hoc_Phi_Moi_Nam_Den": "11.8"
+        },
+        {
+            "Ten_Nganh": "Quản trị nhân lực",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.7",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.3",
+            "Hoc_Phi_Moi_Nam_Den": "12.3"
+        },
+        {
+            "Ten_Nganh": "Quan hệ lao động",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "17.1",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": ".12.3",
+            "Hoc_Phi_Moi_Nam_Den": "12.3"
+        },
+        {
+            "Ten_Nganh": "Luật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.23",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2, 29, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.3",
+            "Hoc_Phi_Moi_Nam_Den": "12.3"
+        },
+        {
+            "Ten_Nganh": "Công tác xã hội",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2, 29, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11.8",
+            "Hoc_Phi_Moi_Nam_Den": "11.8"
+        },
+        {
+            "Ten_Nganh": "Bảo hộ lao động",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15.15",
+            "Nhom_Nganh": "3 ",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11.8",
+            "Hoc_Phi_Moi_Nam_Den": "11.8"
+        }
+    ],
+    "GTA": [
+        {
+            "Ten_Nganh": "CNKT XD Cầu đường bộ (học tại Vĩnh Phúc)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật XD Cầu đường bộ",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Hạ tầng giao thông đô thị thông minh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật Cơ khí",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.25",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật cơ điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.09",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật cơ điện tử trên ô tô",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.5",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "CNKT công trình XD dân dụng và công nghiệp",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật điện tử – viễn thông",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.7",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Hải quan và Logistics",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.95",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Hệ thống thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.9",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Kiến trúc nội thất",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Kế toán doanh nghiệp (học tại Vĩnh Phúc)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.6",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "10.59"
+        },
+        {
+            "Ten_Nganh": "Kế toán doanh nghiệp",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "10.59"
+        },
+        {
+            "Ten_Nganh": "Kinh tế xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.4",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "10.59"
+        },
+        {
+            "Ten_Nganh": "Logistics và quản lý chuỗi cung ứng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.12",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "10.59"
+        },
+        {
+            "Ten_Nganh": "Logistics và hạ tầng giao thông",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "10.59"
+        },
+        {
+            "Ten_Nganh": "Công nghệ và quản lý môi trường",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Công nghệ ô tô và giao thông thông minh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.15",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật Ô tô (học tại Vĩnh Phúc)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.85",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật Ô tô",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.65",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Quản trị Marketing",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.65",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "10.59"
+        },
+        {
+            "Ten_Nganh": "Quản trị doanh nghiệp",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.85",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "10.59"
+        },
+        {
+            "Ten_Nganh": "Quản lý xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.1",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Thương mại điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.07",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "10.59"
+        },
+        {
+            "Ten_Nganh": "Trí tuệ nhân tạo và giao thông thông minh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.08",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Tài chính doanh nghiệp",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.55",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "10.59"
+        },
+        {
+            "Ten_Nganh": "Thanh tra và quản lý công trình giao thông",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "10.59"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin (học tại Vĩnh Phúc)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.3",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.1",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        },
+        {
+            "Ten_Nganh": "Logistics và vận tài đa phương thức",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.6",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.59",
+            "Hoc_Phi_Moi_Nam_Den": "10.59"
+        },
+        {
+            "Ten_Nganh": "Xây dựng và quản lý hạ tầng đô thị",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1,2,50,56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.45",
+            "Hoc_Phi_Moi_Nam_Den": "12.45"
+        }
+    ],
+    "DCN ": [
+        {
+            "Ten_Nganh": "Thiết kế thời trang",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.84",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "1,2,50,63",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Anh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.3",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Trung Quốc",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.86",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50,53",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Nhật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.02",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50,55",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Hàn Quốc",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.92",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50,150",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.25",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "29,50,63",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Kinh tế đầu tư",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.45",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Trung Quốc học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.77",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "53,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ đa phương tiện",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.63",
+            "Nhom_Nganh": "1 ",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Quản trị kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.21",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Marketing",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.24",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Phân tích dữ liệu kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.67",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Tài chính - Ngân hàng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.4",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Kế toán",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.8",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Kiểm toán",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.03",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Quản trị nhân lực",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.59",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Quản trị văn phòng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.09",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Khoa học máy tính",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.05",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Mạng máy tính và truyền thông dữ liệu",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.17",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật phần mềm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.54",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Hệ thống thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.31",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật máy tính",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.3",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.19",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật cơ khí",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.42",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật cơ điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.63",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật cơ điện tử ô tô",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.17",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật ô tô",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.26",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật nhiệt",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.15",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Robot và trí tuệ nhân tạo",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.54",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Thiết kế cơ khí và kiểu dáng công nghiệp",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.75",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật điện, điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.81",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật điện tử - viễn thông",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.65",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật điện tử y sinh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "19",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.47",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,20,56",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật sản xuất thông minh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,20,56",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật hoá học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.35",
+            "Nhom_Nganh": "1, 4",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật môi trường",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "19",
+            "Nhom_Nganh": "1, 4",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Logistics và quản lý chuỗi cung ứng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.52",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1,2",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật khuôn mẫu",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.09",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Năng lượng tái tạo",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "19",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "2,50,63",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ khí động lực",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.55",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "2,50,63",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật hệ thống công nghiệp",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.65",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "2,50,63",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thực phẩm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.51",
+            "Nhom_Nganh": "1, 4",
+            "Khoi_Thi": "1,20,56",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ vật liệu dệt, may",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.1",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50        ",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Công nghệ dệt, may",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.8",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1,2,50",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Hóa dược",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "19.45",
+            "Nhom_Nganh": "4",
+            "Khoi_Thi": "1,20,56",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Du lịch",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.2",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "29,50,63        ",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Quản trị dịch vụ du lịch và lữ hành",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.62",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "2,50,63",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Quản trị khách sạn",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.56",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2,50,63",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        },
+        {
+            "Ten_Nganh": "Quản trị nhà hàng và dịch vụ ăn uống",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.8",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2,50,63",
+            "Hoc_Phi_Moi_Nam_Tu": "19,00",
+            "Hoc_Phi_Moi_Nam_Den": "20,00"
+        }
+    ],
+    "GHA": [
+        {
+            "Ten_Nganh": "Kinh tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.96",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Quản trị kinh doanh",
+            "TSA": "50.49",
+            "DGNL": "0",
+            "TN_THPT": "24.77",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Quản trị kinh doanh (Chương trình chất lượng cao)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.85",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Tài chính - Ngân hàng",
+            "TSA": "50.00",
+            "DGNL": "0",
+            "TN_THPT": "25.1",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kế toán",
+            "TSA": "50.00",
+            "DGNL": "0",
+            "TN_THPT": "24.77",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kế toán (Chương trình chất lượng cao)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.48",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Toán ứng dụng",
+            "TSA": "50.74",
+            "DGNL": "0",
+            "TN_THPT": "22.55",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Khoa học máy tính",
+            "TSA": "55.53",
+            "DGNL": "0",
+            "TN_THPT": "25.24",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin",
+            "TSA": "56.19",
+            "DGNL": "0",
+            "TN_THPT": "25.38",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin (Chương trình chất lượng cao)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.03",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật giao thông",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.75",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Logistics và quản lý chuỗi cung ứng",
+            "TSA": "50.77",
+            "DGNL": "0",
+            "TN_THPT": "26.15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ khí",
+            "TSA": "50.72",
+            "DGNL": "0",
+            "TN_THPT": "23.79",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ khí (Chương trình chất lượng cao)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.45",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ điện tử",
+            "TSA": "50.29",
+            "DGNL": "0",
+            "TN_THPT": "24.87",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật nhiệt",
+            "TSA": "50.00",
+            "DGNL": "0",
+            "TN_THPT": "22.85",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ khí động lực",
+            "TSA": "50.40",
+            "DGNL": "0",
+            "TN_THPT": "22.85",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật ô tô",
+            "TSA": "50.72",
+            "DGNL": "0",
+            "TN_THPT": "24.87",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật điện",
+            "TSA": "50.00",
+            "DGNL": "0",
+            "TN_THPT": "23.72",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật điện tử - viễn thông",
+            "TSA": "55.41",
+            "DGNL": "0",
+            "TN_THPT": "24.26",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật điều khiển và tự động hóa",
+            "TSA": "51.80",
+            "DGNL": "0",
+            "TN_THPT": "25.19",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật robot và trí tuệ nhân tạo",
+            "TSA": "50.04",
+            "DGNL": "0",
+            "TN_THPT": "24.34",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Hệ thống giao thông thông minh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.45",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật môi trường",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.9",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 20, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Quản lý đô thị và công trình",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.55",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.2",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng (Chương trình tiên tiến)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.9",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng công trình thuỷ",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.3",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng công trình giao thông",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "19.25",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng công trình giao thông (Chương trình chất lượng cao)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.9",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ sở hạ tầng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.6",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kinh tế xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.98",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kinh tế xây dựng (Chương trình chất lượng cao)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.7",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Quản lý xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.51",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Quản lý xây dựng (Chương trình chất lượng cao)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.5",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Quản trị dịch vụ du lịch và lữ hành",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.8",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Khai thác vận tải",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.04",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        },
+        {
+            "Ten_Nganh": "Kinh tế vận tải",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.35",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10",
+            "Hoc_Phi_Moi_Nam_Den": "13"
+        }
+    ],
+    "NHF": [
+        {
+            "Ten_Nganh": "Ngôn ngữ Anh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "35.38",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Nga",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "31.93",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 51",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Pháp",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "33.70",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 52",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Trung Quốc",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "35.75",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 53",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Trung Quốc - Chất lượng cao (CLC)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34.82",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 53",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Đức",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "33.96",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 54",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Tây Ban Nha",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "33.38",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Bồ Đào Nha",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "31.35",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Italia",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "32.63",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Italia - CLC",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "30.95",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Nhật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34.59",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 55",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Hàn Quốc",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "36.15",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 150",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Hàn Quốc - CLC",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34.87",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50, 150",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Nghiên cứu phát triển (dạy bằng tiếng Anh)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "32.55",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Quốc tế học (dạy bằng tiếng Anh)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "33.48",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Truyền thông đa phương tiện (dạy bằng tiếng Anh)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.94",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Truyền thông doanh nghiệp (dạy bằng tiếng Pháp)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "34.10",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "50, 52",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Quản trị kinh doanh (dạy bằng tiếng Anh)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "33.93",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Marketing (dạy bằng tiếng Anh)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "35.05",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Tài chính - Ngân hàng (dạy bằng tiếng Anh)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "33.70",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Kế toán (dạy bằng tiếng Anh)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "33.52",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin (dạy bằng tiếng Anh)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.70",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin (dạy bằng tiếng Anh) - CLC",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.20",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "19",
+            "Hoc_Phi_Moi_Nam_Den": "24"
+        },
+        {
+            "Ten_Nganh": "Quản trị dịch vụ du lịch và lữ hành (dạy bằng tiếng Anh)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "33.90",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "41",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        },
+        {
+            "Ten_Nganh": "Quản trị dịch vụ du lịch và lữ hành (dạy bằng tiếng Anh) - CLC",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "32.25",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "41",
+            "Hoc_Phi_Moi_Nam_Den": "42"
+        }
+    ],
+    "KCN": [
+        {
+            "Ten_Nganh": "Công nghệ Sinh học – Phát triển thuốc",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.14",
+            "Nhom_Nganh": "4",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "Hóa học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.15",
+            "Nhom_Nganh": "4",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "Khoa học Vật liệu tiên tiến và Công nghệ Nano",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.80",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "Khoa học Môi trường ứng dụng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.55",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "Khoa học dữ liệu",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.51",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "Toán ứng dụng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.55",
+            "Nhom_Nganh": "6",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin – Truyền thông",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.05",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "An toàn thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.05",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "Công nghệ Kỹ thuật Cơ điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.63",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "Khoa học Vũ trụ và Công nghệ Vệ tinh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.30",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật ô tô",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.28",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật điện và Năng lượng tái tạo",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.65",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "50"
+        },
+        {
+            "Ten_Nganh": "Công nghệ vi mạch bán dẫn",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.01",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "68",
+            "Hoc_Phi_Moi_Nam_Den": "70"
+        },
+        {
+            "Ten_Nganh": "Khoa học và Công nghệ thực phẩm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.05",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "70",
+            "Hoc_Phi_Moi_Nam_Den": "75"
+        },
+        {
+            "Ten_Nganh": "Dược học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.57",
+            "Nhom_Nganh": "4",
+            "Khoi_Thi": "20",
+            "Hoc_Phi_Moi_Nam_Tu": "70",
+            "Hoc_Phi_Moi_Nam_Den": "75"
+        },
+        {
+            "Ten_Nganh": "Khoa học và Công nghệ y khoa",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.60",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "20",
+            "Hoc_Phi_Moi_Nam_Tu": "70",
+            "Hoc_Phi_Moi_Nam_Den": "75"
+        },
+        {
+            "Ten_Nganh": "Vật lý và kỹ thuật điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.14",
+            "Nhom_Nganh": "5",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "48",
+            "Hoc_Phi_Moi_Nam_Den": "75"
+        }
+    ],
+    "DKK": [
+        {
+            "Ten_Nganh": "Ngôn ngữ Anh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2, 50, 58, 63",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Quản trị kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.3",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Kinh doanh thương mại",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Tài chính – Ngân hàng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Mạng máy tính và truyền thông dữ liệu",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.2",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Kế toán",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.5",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật cơ khí",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật điện, điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.5",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật cơ điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.5",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.3",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thực phẩm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Công nghệ sợi, dệt",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "19",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Công nghệ dệt, may",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật điện tử - viễn thông",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.2",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật máy tinh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.5",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật ô tô",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Quản trị dịch vụ du lịch và lữ hành",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 29, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Bảo hiểm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Khoa học dữ liệu",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Marketing",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.07",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Kiểm toán",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.5",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Logistics và Quản lý chuỗi cung ứng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.3",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        },
+        {
+            "Ten_Nganh": "Quản trị khách sạn",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.3",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 29, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "17.5",
+            "Hoc_Phi_Moi_Nam_Den": "18"
+        }
+    ],
+    "KTA": [
+        {
+            "Ten_Nganh": "Kiến trúc",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "28.8",
+            "Nhom_Nganh": "1, 7",
+            "Khoi_Thi": "212, 213, 214",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Quy hoạch vùng và đô thị",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "28",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "212, 213, 214",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Quy hoạch vùng và đô thị\n(Chuyên ngành Thiết kế đô thị)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.65",
+            "Nhom_Nganh": "1, 7",
+            "Khoi_Thi": "212, 213, 214",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Kiến trúc cảnh quan",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.7",
+            "Nhom_Nganh": "1, 7",
+            "Khoi_Thi": "212, 213, 214",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Chương trình tiên tiến ngành Kiến trúc",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.23",
+            "Nhom_Nganh": "1, 7",
+            "Khoi_Thi": "212, 213, 214",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Thiết kế đồ họa",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 154",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Thiết kế thời trang",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.99",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 154",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Thiết kế nội thất",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "223",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 154",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Điêu khắc",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 154",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng\n(Chuyên ngành Xây dựng dân dụng và công nghiệp)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.1",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng\n(Chuyên ngành Xây dựng công trình ngầm đô thị)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.3",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng\n(Chuyên ngành Quản lý dự án xây dựng)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.5",
+            "Nhom_Nganh": "1,2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật vật liệu xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.75",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Quản lý xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.75",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Quản lý xây dựng\n(Chuyên ngành Quản lý bất động sản)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.95",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Quản lý xây dựng\n(Chuyên ngành Quản lý vận tải và Logistics)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.93",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Quản lý xây dựng\n(Chuyên ngành Kinh tế phát triển)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.35",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Kinh tế xây dựng\n(Chuyên ngành Kinh tế đầu tư)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.8",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Kinh tế Xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.9",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 30, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cấp thoát nước",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.45",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ sở hạ tầng\n(Chuyên ngành Kỹ thuật hạ tầng đô thị)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.45",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ sở hạ tầng\n(Chuyên ngành Kỹ thuật môi trường đô thị)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.45",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ sở hạ tầng\n(Chuyên ngành Công nghệ cơ điện công trình)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.45",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng công trình giao thông",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.45",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.56",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin\n(Chuyên ngành Công nghệ đa phương tiện)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.75",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "16.4",
+            "Hoc_Phi_Moi_Nam_Den": "36.54"
+        }
+    ],
+    "DLX ": [
+        {
+            "Ten_Nganh": "Ngôn ngữ Anh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.52",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "2, 50, 56, 63",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Kinh tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.25",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Tâm lý học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.44",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "1, 2, 50, 29",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Quản trị kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.40",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Tài chính - Ngân hàng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.75",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Bảo hiểm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.75",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Bảo hiểm - Tài chính",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.05",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Kế toán",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.40",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Kiểm toán",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.90",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Quản trị nhân lực",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.25",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Hệ thống thông tin quản lý",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.85",
+            "Nhom_Nganh": "1, 2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Luật kinh tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.05",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.10",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Công tác xã hội",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.25",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "1, 2, 50, 29",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        },
+        {
+            "Ten_Nganh": "Quản trị dịch vụ du lịch và lữ hành",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.55",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12",
+            "Hoc_Phi_Moi_Nam_Den": "12"
+        }
+    ],
+    "LNH": [
+        {
+            "Ten_Nganh": "Hệ thống thông tin (Công nghệ thông tin)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 17, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật ô tô",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 17, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật cơ điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 17, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ khí (Công nghệ chế tạo máy)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 17, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng (Kỹ thuật công trình xây dựng)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 17, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Kế toán",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 17, 44, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Quản trị kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 17, 44, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Kinh tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 17, 44, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Bất động sản",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 17, 44, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Công tác xã hội",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "3",
+            "Khoi_Thi": "1, 29, 44, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Quản trị dịch vụ du lịch và lữ hành",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 29, 44, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Quản lý tài nguyên rừng (Kiểm lâm)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "1, 20, 44, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Lâm sinh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "1, 17, 20, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Quản lý tài nguyên và Môi trường",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "1, 17, 20, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Khoa học môi trường",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "1, 17, 20, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Quản lý đất đai",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "1, 17, 20, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Công nghệ sinh học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "1, 17, 20, 28",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Thú y",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "1, 17, 20, 28",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Khoa học cây trồng (Nông học, Trồng trọt)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "1, 17, 20, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Thiết kế nội thất",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "1, 44, 50, 152",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Công nghệ chế biến lâm sản (Công nghệ gỗ và quản lý sản xuất)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "1, 17, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Lâm nghiệp đô thị (Cây xanh đô thị)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "1, 17, 20, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Kiến trúc cảnh quan",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "1, 50, 44, 213",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Quản lý tài nguyên thiên nhiên",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "28, 50, 56, 59",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        },
+        {
+            "Ten_Nganh": "Du lịch sinh thái",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15",
+            "Nhom_Nganh": "8",
+            "Khoi_Thi": "20, 29, 44, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "11",
+            "Hoc_Phi_Moi_Nam_Den": "28"
+        }
+    ],
+    "MDA": [
+        {
+            "Ten_Nganh": "Quản trị kinh doanh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.25",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.1",
+            "Hoc_Phi_Moi_Nam_Den": "10.1"
+        },
+        {
+            "Ten_Nganh": "Kế toán",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.25",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.1",
+            "Hoc_Phi_Moi_Nam_Den": "10.1"
+        },
+        {
+            "Ten_Nganh": "Công nghệ thông tin",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật hoá học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.50",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 7, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ khí",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.75",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 30",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật điện",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.25",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 30",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật điều khiển và tự động hoá",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.50",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 30",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật môi trường",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15.50",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 20, 33, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật địa chất",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 33, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật địa vật lý",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56, 5",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật trắc địa - bản đồ",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 33, 50, 59",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật mỏ",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "17.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 30",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật dầu khí",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.50",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật tuyển khoáng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 56, 20, 7",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 33",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Quản lý đất đai",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "19.50",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 33, 50, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "10.1",
+            "Hoc_Phi_Moi_Nam_Den": "10.1"
+        },
+        {
+            "Ten_Nganh": "Tài chính - Ngân hàng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.25",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.1",
+            "Hoc_Phi_Moi_Nam_Den": "10.1"
+        },
+        {
+            "Ten_Nganh": "Địa chất học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "50, 33, 56, 1",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Địa kỹ thuật xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 33, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật hóa học - Chương trình tiên tiến",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "19.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 20, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Địa tin học",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 33, 50, 59",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Quản lý công nghiệp",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.75",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.1",
+            "Hoc_Phi_Moi_Nam_Den": "10.1"
+        },
+        {
+            "Ten_Nganh": "Du lịch địa chất",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.00",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50, 59, 33, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "10.1",
+            "Hoc_Phi_Moi_Nam_Den": "10.1"
+        },
+        {
+            "Ten_Nganh": "Khoa học dữ liệu",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 56",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.95",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 30",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật cơ khí động lực",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "20.15",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 30",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Xây dựng công trình ngầm thành phố và hệ thống tàu điện ngầm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 33",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật xây dựng công trình giao thông",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 33",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Quản lý tài nguyên môi trường",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.00",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 20, 33, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "10.1",
+            "Hoc_Phi_Moi_Nam_Den": "10.1"
+        },
+        {
+            "Ten_Nganh": "Quản lý và phân tích dữ liệu khoa học trái đất",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56, 53",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật khí thiên nhiên",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.50",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 56, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Đá quý đá mỹ nghệ",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "15.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 33, 50, 59",
+            "Hoc_Phi_Moi_Nam_Tu": "10.1",
+            "Hoc_Phi_Moi_Nam_Den": "10.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật tài nguyên nước",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "16.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 33, 50",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Quản lý phát triển đô thị và bất động sản",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.50",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 33, 50, 59",
+            "Hoc_Phi_Moi_Nam_Tu": "10.1",
+            "Hoc_Phi_Moi_Nam_Den": "10.1"
+        },
+        {
+            "Ten_Nganh": "An toàn. vệ sinh lao động",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "17.00",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 20",
+            "Hoc_Phi_Moi_Nam_Tu": "10.1",
+            "Hoc_Phi_Moi_Nam_Den": "10.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật ô tô",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.25",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 30",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Công nghệ kỹ thuật điện. điện tử",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.50",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 30",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Kỹ thuật robot và trí tuệ nhân tạo",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.50",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 2, 50, 30",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        },
+        {
+            "Ten_Nganh": "Quản lý xây dựng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "19.50",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1, 2, 50, 33",
+            "Hoc_Phi_Moi_Nam_Tu": "10.1",
+            "Hoc_Phi_Moi_Nam_Den": "10.1"
+        },
+        {
+            "Ten_Nganh": "Hóa dược",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.00",
+            "Nhom_Nganh": "1",
+            "Khoi_Thi": "1, 20, 56, 2",
+            "Hoc_Phi_Moi_Nam_Tu": "12.1",
+            "Hoc_Phi_Moi_Nam_Den": "12.1"
+        }
+    ],
+    "MTH": [
+        {
+            "Ten_Nganh": "Sư phạm mỹ thuật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "29.56",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152",
+            "Hoc_Phi_Moi_Nam_Tu": "14.16",
+            "Hoc_Phi_Moi_Nam_Den": "14.16"
+        },
+        {
+            "Ten_Nganh": "Hội họa",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "30.63",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152",
+            "Hoc_Phi_Moi_Nam_Tu": "14.16",
+            "Hoc_Phi_Moi_Nam_Den": "14.16"
+        },
+        {
+            "Ten_Nganh": "Đồ họa",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "30.63",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152",
+            "Hoc_Phi_Moi_Nam_Tu": "14.16",
+            "Hoc_Phi_Moi_Nam_Den": "14.16"
+        },
+        {
+            "Ten_Nganh": "Điêu khắc",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.06",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152",
+            "Hoc_Phi_Moi_Nam_Tu": "14.16",
+            "Hoc_Phi_Moi_Nam_Den": "14.16"
+        },
+        {
+            "Ten_Nganh": "Lý luận,lịch sự và phê bình mỹ ",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "29.8",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152",
+            "Hoc_Phi_Moi_Nam_Tu": "14.16",
+            "Hoc_Phi_Moi_Nam_Den": "14.16"
+        },
+        {
+            "Ten_Nganh": "Thiết kế đồ họa ",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "29.9",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152",
+            "Hoc_Phi_Moi_Nam_Tu": "14.16",
+            "Hoc_Phi_Moi_Nam_Den": "14.16"
+        }
+    ],
+    "MTC": [
+        {
+            "Ten_Nganh": "Hoành tráng",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.3",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Sơn mài",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.3",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Điêu khắc",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.15",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Gốm",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.4",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Thiết kế Công nghiệp",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.65",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Thiết kế Trang sức",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.65",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Thiết kế Trang trí Kim loại",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.65",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Thiết kế Trang trí Thủy tinh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.65",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Thiết kế Trang trí Dệt",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.65",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Thiết kế Đồ chơi & PTHT học tập",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.65",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Thiết kế Đồ họa",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "23.75",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Thiết kế Thời trang",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "21.65",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        },
+        {
+            "Ten_Nganh": "Thiết kế Nội thất",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "22.65",
+            "Nhom_Nganh": "7",
+            "Khoi_Thi": "152, 159",
+            "Hoc_Phi_Moi_Nam_Tu": "14.2",
+            "Hoc_Phi_Moi_Nam_Den": "14.2"
+        }
+    ],
+    "LPH": [
+        {
+            "Ten_Nganh": "Luật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.5",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.75",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50, 51, 52, 54, 55",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật kinh tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.5",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật kinh tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.5",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật kinh tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "27.36",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật kinh tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "26.5",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50, 51, 52, 54, 55",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật thương mại quốc tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.8",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật thương mại quốc tế",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "25.75",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Anh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Ngôn ngữ Anh",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "24.5",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật (đào tạo tại Phân hiệu Đắk Lắk)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "1",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật (đào tạo tại Phân hiệu Đắk Lắk)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "2",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật (đào tạo tại Phân hiệu Đắk Lắk)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "29",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        },
+        {
+            "Ten_Nganh": "Luật (đào tạo tại Phân hiệu Đắk Lắk)",
+            "TSA": "0",
+            "DGNL": "0",
+            "TN_THPT": "18.15",
+            "Nhom_Nganh": "2",
+            "Khoi_Thi": "50, 51, 52, 54, 55",
+            "Hoc_Phi_Moi_Nam_Tu": "30",
+            "Hoc_Phi_Moi_Nam_Den": "30"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+.slider {
+  height: 124px;
+  background: linear-gradient(to right, #7777aa, #465190);
+  background-size: 200% 100%;
+  margin-bottom: 42px;
+  user-select: none;
+}
+
+.slider_background {
+  height: 124px;
+  background-image: url("../../img/background_slider.png");
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  filter: hue-rotate(124deg) brightness(1.2) contrast(0.9);
+}
+.slider_background_text {
+  color: var(--background-color-4);
+  font-size: 32px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

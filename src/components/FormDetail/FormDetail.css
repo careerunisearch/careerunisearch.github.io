@@ -1,0 +1,255 @@
+.form-detail_data {
+  margin: 0 24px;
+}
+
+.form-detail_data_header {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+  border-bottom: solid 1px var(--background-color-2);
+}
+
+.form-detail_data_header:hover p,
+.form-detail_data_header:hover i {
+  background-color: var(--prime-color);
+  color: var(--text-color-active);
+}
+
+.form-detail_data_header.active {
+  border-radius: 12px 12px 0 0;
+  overflow: hidden;
+  /* border: solid 2px var(--background-color-5); */
+}
+
+.form-detail_data_header.active p,
+.form-detail_data_header.active i {
+  background-color: var(--prime-color);
+  color: var(--text-color-active);
+}
+
+.form-detail_data_header p,
+.form-detail_data_header i {
+  padding: 16px 16px;
+  font-weight: 600;
+  color: var(--text-color-1);
+  display: flex;
+  justify-content: center;
+}
+
+.form-detail_data_order {
+  width: 5%;
+}
+
+.form-detail_data_name {
+  width: 70%;
+}
+
+.form-detail_data_code {
+  width: 15%;
+}
+
+.form-detail_data_type {
+  width: 15%;
+}
+
+.form-detail_data_address {
+  width: 15%;
+}
+
+.form-detail_data_icon {
+}
+
+.table-content_footer {
+  margin: 24px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 24px;
+}
+
+.form-detail_data_detail {
+  display: none;
+  border: solid 2px var(--background-color-5);
+  border-top: none;
+  border-radius: 0 0 12px 12px;
+  overflow: hidden;
+  flex-direction: column;
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    /* transform: translateY(-20px); */
+  }
+  to {
+    opacity: 1;
+    /* transform: translateY(0); */
+  }
+}
+
+.form-detail_data_detail.active {
+  display: flex;
+  animation: fadeInDown 0.8s ease-in-out;
+}
+
+.form-detail_data_detail_header {
+  width: 72%;
+  margin-top: 12px;
+}
+
+.form-detail_data_detail_info {
+  font-size: 16px;
+  margin: 0 24px;
+  color: var(--text-color-1);
+  font-weight: 500;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.form-detail_data_detail_info {
+  background-color: var(--background-color-1);
+  max-height: 180px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  overscroll-behavior-y: contain;
+  border-radius: 0 0 12px 12px;
+}
+
+.form-detail_data_detail_info_address {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.6;
+}
+
+.form-detail_data_detail_info::-webkit-scrollbar {
+  width: 4px;
+}
+
+.form-detail_data_detail_info::-webkit-scrollbar-track {
+  background: var(--background-color-1);
+  border-radius: 4px;
+}
+
+.form-detail_data_detail_info::-webkit-scrollbar-thumb {
+  background: var(--btn-color-active-1);
+  border-radius: 4px;
+}
+
+.form-detail_data_detail_info::-webkit-scrollbar-thumb:hover {
+  background: var(--prime-color); /* Màu khi di chuột qua thanh cuộn */
+}
+
+.form-detail_data_detail_info p {
+  width: 200px;
+  margin: 12px 0;
+  margin-right: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.form-detail_data_detail_info p,
+.form-detail_data_detail_info a {
+  margin-right: 12px;
+  color: var(--text-color-1);
+  text-decoration: none;
+}
+
+.form-detail_data_detail_info a:hover {
+  text-decoration: underline;
+}
+
+.form-detail_data_detail_body {
+  padding-bottom: 12px;
+}
+
+.form-detail_data_detail_body_title {
+  margin: 24px 24px;
+  color: var(--prime-color);
+  font-weight: 600;
+}
+
+.form-detail_data_detail_body_title span {
+  padding-bottom: 12px;
+  border-bottom: solid 2px var(--prime-color);
+}
+
+.form-detail_data_detail_body_info_title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 4px;
+  margin: 12px 24px;
+  font-weight: 500;
+  color: var(--text-color-2);
+  background-color: var(--background-color-2);
+  line-height: 1.6;
+}
+
+.form-detail_data_detail_body_info_container {
+  background-color: var(--background-color-6);
+  max-height: 580px;
+  /* overflow-x: hidden;
+  overflow-y: scroll;
+  overscroll-behavior-y: contain; */
+  overflow: auto;
+  border-radius: 0 0 12px 12px;
+}
+
+.form-detail_data_detail_body_info_container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.form-detail_data_detail_body_info_container::-webkit-scrollbar-track {
+  background: var(--background-color-1);
+  border-radius: 6px;
+}
+
+.form-detail_data_detail_body_info_container::-webkit-scrollbar-thumb {
+  background: var(--btn-color-active-1);
+  border-radius: 6px;
+}
+
+.form-detail_data_detail_body_info_container::-webkit-scrollbar-thumb:hover {
+  background: var(--prime-color); /* Màu khi di chuột qua thanh cuộn */
+}
+
+.form-detail_data_detail_body_info_container_data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 4px;
+  margin: 12px 24px;
+  font-weight: 500;
+  color: var(--text-color-2);
+  border-bottom: solid 1px var(--line-color-2);
+  line-height: 1.6;
+}
+
+.form-detail_data_detail_body_info_title p,
+.form-detail_data_detail_body_info_container_data p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-detail_data_detail_body_info_title_name,
+.form-detail_data_detail_body_info_container_data_name {
+  width: 30%;
+}
+
+.form-detail_data_detail_body_info_title_group,
+.form-detail_data_detail_body_info_container_data_group {
+  width: 15%;
+}
+
+.form-detail_data_detail_body_info_title_money,
+.form-detail_data_detail_body_info_container_data_money {
+  width: 10%;
+}
+
+.form-detail_data_detail_body_info_title_other,
+.form-detail_data_detail_body_info_container_data_other {
+  width: 10%;
+}

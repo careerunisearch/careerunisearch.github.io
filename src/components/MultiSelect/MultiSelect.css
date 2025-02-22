@@ -1,0 +1,182 @@
+.multi-select_filter-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  min-width: 220px;
+  min-height: 40px;
+  border-radius: 100px;
+  margin: 8px;
+  font-weight: 600;
+  color: var(--prime-color);
+  cursor: pointer;
+  border: solid 1px var(--sub-color-2);
+}
+
+.multi-select_filter-label span {
+  opacity: 0.6;
+  margin-left: 24px;
+}
+
+.multi-select_filter-label_info {
+  opacity: 1 !important;
+  white-space: nowrap; /* Ngăn văn bản xuống dòng */
+  overflow: hidden; /* Ẩn phần văn bản vượt quá kích thước */
+  text-overflow: ellipsis; /* Thay thế phần văn bản bị ẩn bằng dấu ... */
+  max-width: 160px;
+}
+
+.multi-select_filter-label i {
+  opacity: 0.6;
+  margin-right: 16px;
+  font-size: 12px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    /* transform: translateY(-20px); */
+  }
+  to {
+    opacity: 1;
+    /* transform: translateY(0); */
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+    /* transform: translateY(-20px); */
+  }
+  to {
+    opacity: 0;
+    /* transform: translateY(0); */
+  }
+}
+
+.multi-select_filter-drop.active {
+  display: inline;
+  animation: fadeIn 0.8s ease-in-out forwards;
+}
+
+.multi-select_filter-drop {
+  border-radius: 12px;
+  border: solid 1px var(--background-color-2);
+  overflow: hidden;
+  position: absolute;
+  background-color: var(--background-color-1);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  top: 376px;
+  display: none;
+}
+
+.multi-select_filter-drop_search {
+  max-width: 220px;
+  padding: 0 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: solid 1px var(--background-color-2);
+}
+
+.multi-select_filter-drop_search input {
+  padding: 8px 0 8px 12px;
+  line-height: 1.6;
+  border: none;
+  color: var(--prime-color);
+  opacity: 0.6;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: var(--background-color-1);
+}
+
+.multi-select_filter-drop_search input:focus {
+  outline: none;
+}
+
+.multi-select_filter-drop_search i {
+  color: var(--prime-color);
+  padding-right: 12px;
+  opacity: 0.6;
+}
+
+.multi-select_filter-drop_table {
+  background-color: var(--background-color-6);
+  max-height: 180px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  overscroll-behavior-y: contain;
+  border-radius: 0 0 12px 12px;
+}
+
+.multi-select_filter-drop_table::-webkit-scrollbar {
+  width: 4px;
+}
+
+.multi-select_filter-drop_table::-webkit-scrollbar-track {
+  background: var(--background-color-1);
+  border-radius: 4px;
+}
+
+.multi-select_filter-drop_table::-webkit-scrollbar-thumb {
+  background: var(--btn-color-active-1);
+  border-radius: 4px;
+}
+
+.multi-select_filter-drop_table::-webkit-scrollbar-thumb:hover {
+  background: var(--prime-color); /* Màu khi di chuột qua thanh cuộn */
+}
+
+.multi-select_filter-drop_table_item {
+  max-width: 220px;
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  font-size: 14px;
+  justify-content: space-between;
+  line-height: 20px;
+  padding: 8px 12px;
+  text-align: left;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-color-2);
+}
+
+.multi-select_filter-drop_table_item:hover {
+  background-color: var(--background-color-2);
+}
+
+.multi-select_filter-drop_table_item.active
+  .multi-select_filter-drop_table_item_btn {
+  background-color: var(--btn-color-active-1);
+  color: #fff;
+  border: 2px solid var(--btn-color-active-1);
+  /* background-color: var(--prime-color); */
+}
+
+.multi-select_filter-drop_table_item.active span {
+  color: var(--btn-color-active-1);
+}
+
+.multi-select_filter-drop_table_item.active i {
+  display: inline;
+}
+
+.multi-select_filter-drop_table_item_btn {
+  border: 2px solid;
+  border-radius: 2px;
+  color: #848687;
+  height: 12px;
+  margin-left: 8px;
+  min-width: 12px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.multi-select_filter-drop_table_item_btn i {
+  font-size: 12px;
+  display: none;
+}

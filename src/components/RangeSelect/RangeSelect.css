@@ -1,0 +1,112 @@
+.range-select_filter-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--background-color-4);
+  min-width: 220px;
+  min-height: 40px;
+  border-radius: 100px;
+  margin: 8px;
+  font-weight: 600;
+  color: var(--prime-color);
+  cursor: pointer;
+  border: solid 1px var(--sub-color-2);
+}
+
+.range-select_filter-label.disable {
+  background-color: var(--disable-color-1);
+  pointer-events: none;
+}
+
+.range-select_filter-label span {
+  opacity: 0.6;
+  margin-left: 24px;
+}
+
+.range-select_filter-label span.active {
+  opacity: 1;
+}
+
+.range-select_filter-label_info {
+  opacity: 1 !important;
+  white-space: nowrap; /* Ngăn văn bản xuống dòng */
+  overflow: hidden; /* Ẩn phần văn bản vượt quá kích thước */
+  text-overflow: ellipsis; /* Thay thế phần văn bản bị ẩn bằng dấu ... */
+  max-width: 160px;
+}
+
+.range-select_filter-label i {
+  opacity: 0.6;
+  margin-right: 16px;
+  font-size: 12px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    /* transform: translateY(-20px); */
+  }
+  to {
+    opacity: 1;
+    /* transform: translateY(0); */
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+    /* transform: translateY(-20px); */
+  }
+  to {
+    opacity: 0;
+    /* transform: translateY(0); */
+  }
+}
+
+.range-select_filter-drop.active {
+  display: inline;
+  animation: fadeIn 0.8s ease-in-out forwards;
+}
+
+.range-select_filter-drop {
+  border-radius: 12px;
+  border: solid 1px var(--background-color-2);
+  overflow: hidden;
+  position: absolute;
+  background-color: var(--background-color-1);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  top: 432px;
+  display: none;
+  padding: 16px 16px 4px;
+}
+
+.range-select_filter-drop label {
+  color: var(--prime-color);
+  display: inline-block;
+  font-size: 16px;
+  width: 30px;
+}
+
+.range-select_filter-drop input {
+  appearance: none;
+  background-color: #fff;
+  border: 1px solid #e3e3e3;
+  border-radius: 50px;
+  box-sizing: border-box;
+  color: var(--prime-color);
+  font-size: 16px;
+  line-height: 1.6;
+  outline: none;
+  padding: 4px 16px;
+  width: 152px;
+  margin: 0 12px;
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+
+.range-select_filter-drop input::placeholder {
+  color: var(--prime-color);
+  opacity: 0.6;
+  font-weight: 500;
+}

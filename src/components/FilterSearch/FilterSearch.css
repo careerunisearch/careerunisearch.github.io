@@ -1,0 +1,194 @@
+@import "../../color/color.css";
+
+.filter-search {
+  min-width: 1000px;
+  min-height: auto;
+  margin: 0 48px;
+  padding-bottom: 24px;
+  background-color: var(--background-color-1);
+  border-radius: 12px;
+}
+
+.filter-search_header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid var(--background-color-2);
+  font-weight: 600;
+  color: var(--prime-color);
+  margin-bottom: 16px;
+}
+
+.filter-search_header_title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.filter-search_header_title_filter {
+  line-height: 48px;
+  margin-left: 24px;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.filter-search_header_title_filter:hover {
+  opacity: 1;
+}
+
+.filter-search_header_title_filter.active {
+  border-bottom: 2px solid var(--prime-color);
+  opacity: 1;
+}
+
+.filter-search_header_title_filter i {
+  margin-right: 8px;
+}
+
+.filter-search_body {
+}
+
+.filter-search_body_filter-univerity.active {
+  display: flex;
+}
+
+.filter-search_body_filter-univerity {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.filter-search_body_filter-univerity_row {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.filter-search_body_search-name.active {
+  display: flex;
+  flex-direction: column;
+}
+
+.filter-search_body_search-name {
+  display: none;
+  margin-top: 24px;
+  justify-content: center;
+  align-items: center;
+}
+
+.filter-search_body_search-name_btn {
+  display: flex;
+  padding: 0 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: var(--background-color-4);
+  border-radius: 100px;
+  /* margin: 8px; */
+  font-weight: 600;
+  color: var(--prime-color);
+  cursor: pointer;
+  border: solid 1px var(--sub-color-2);
+  overflow: hidden;
+}
+
+.filter-search_body_search-name_btn input {
+  min-width: 580px;
+  padding: 8px 0 8px 4px;
+  line-height: 1.6;
+  border: none;
+  color: var(--prime-color);
+  font-size: 16px;
+  font-weight: 600;
+  background-color: var(--background-color-4);
+}
+
+.filter-search_body_search-name_btn input:focus {
+  outline: none;
+}
+
+.filter-search_body_search-name_btn input::placeholder {
+  color: var(--prime-color);
+  opacity: 0.6;
+}
+
+.filter-search_body_search-name_drop-table {
+  border-radius: 12px;
+  border: solid 1px var(--background-color-2);
+  background-color: var(--background-color-1);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  top: 376px;
+  position: absolute;
+  max-height: 240px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  overscroll-behavior-y: contain;
+  border-radius: 8px 8px 8px 8px;
+  display: none;
+}
+
+.filter-search_body_search-name_drop-table.active {
+  display: inline-block;
+}
+
+.filter-search_body_search-name_drop-table::-webkit-scrollbar {
+  width: 4px;
+}
+
+.filter-search_body_search-name_drop-table::-webkit-scrollbar-track {
+  background: var(--background-color-1);
+  border-radius: 12px;
+}
+
+.filter-search_body_search-name_drop-table::-webkit-scrollbar-thumb {
+  background: var(--btn-color-active-1);
+  border-radius: 12px;
+}
+
+.filter-search_body_search-name_drop-table::-webkit-scrollbar-thumb:hover {
+  background: var(--prime-color); /* Màu khi di chuột qua thanh cuộn */
+}
+
+.filter-search_body_search-name_drop-table_item {
+  min-width: 580px;
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  font-size: 14px;
+  justify-content: space-between;
+  line-height: 20px;
+  padding: 12px 12px;
+  text-align: left;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-color-2);
+}
+
+.filter-search_body_search-name_drop-table_item:hover {
+  background-color: var(--background-color-2);
+}
+
+.filter-search_body_filter-univerity_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 220px;
+  min-height: 40px;
+  border-radius: 100px;
+  margin: 8px;
+  font-weight: 600;
+  margin-top: 32px;
+  margin-bottom: 16px;
+  cursor: pointer;
+  background-color: var(--prime-color);
+  color: var(--text-color-active);
+}
+
+.filter-search_body_filter-univerity_button:hover {
+  background-color: var(--btn-color-active-1);
+  color: var(--text-color-active);
+}

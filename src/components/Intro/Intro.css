@@ -1,0 +1,144 @@
+.intro {
+  margin: 48px 0;
+}
+.intro_info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.intro_info_name {
+  font-size: 48px;
+  font-weight: 500;
+  color: var(--prime-color);
+  margin-bottom: 10px;
+}
+.intro_info_slogan {
+  font-weight: 500;
+  font-size: 20px;
+  font-style: italic;
+  color: var(--prime-color);
+  opacity: 0.8;
+  margin-bottom: 24px;
+}
+.intro_info_text {
+  width: 80%;
+  font-weight: 500;
+  line-height: 1.6;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: var(--prime-color);
+}
+
+.intro_info_text p {
+  margin-bottom: 12px;
+}
+
+.intro_team {
+  margin: 48px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.intro_team_member {
+  width: 320px;
+  height: 320px;
+  border-radius: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  border: solid 5px var(--prime-color);
+  margin: 18px;
+}
+
+.intro_team_member.Nguyen-Duc {
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 40%, #000),
+    url(../../img/Nguyen_Duc.png);
+  background-size: 250%;
+  background-position-x: 44%;
+  background-position-y: 80%;
+}
+.intro_team_member.Duong-Minh {
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 40%, #000),
+    url(../../img/Duong_Minh.png);
+  background-size: 432%;
+  background-position-x: 56%;
+  background-position-y: 63%;
+}
+.intro_team_member.Tran-Duc {
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 40%, #000),
+    url(../../img/Tran_Duc.png);
+  background-size: 186%;
+  background-position-x: 52%;
+  background-position-y: 62%;
+}
+.intro_team_member.Ngo-Vu {
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 40%, #000),
+    url(../../img/Ngo_Vu.png);
+  background-size: 160%;
+  background-position-x: 48%;
+  background-position-y: -16%;
+}
+.intro_team_member.Nguyen-Vu {
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 40%, #000),
+    url(../../img/Nguyen_Vu.png);
+  background-size: 116%;
+  background-position-x: 48%;
+  background-position-y: 12%;
+}
+.intro_team_member.Xuan-Cong {
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 40%, #000),
+    url(../../img/Xuan_Cong.png);
+  background-size: 88%;
+  background-position-x: 48%;
+  background-position-y: 12%;
+}
+.intro_team_member.Nguyen-Vuong {
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 40%, #000),
+    url(../../img/Nguyen_Vuong.png);
+  background-size: 256%;
+  background-position-x: 42%;
+  background-position-y: 62%;
+}
+.intro_team_member.Dinh-Dung {
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 40%, #000),
+    url(../../img/Dinh_Dung.png);
+  background-size: 100%;
+  background-position-x: 24%;
+  background-position-y: 36%;
+}
+
+.col-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro_team_member_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.intro_team_member_container_role {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.intro_team_member_container_name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 24px 0;
+  margin-top: 36px;
+}
+
+.intro_team_member_container_role,
+.intro_team_member_container_name {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+}
