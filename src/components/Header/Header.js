@@ -14,16 +14,10 @@ function Header() {
         {/* <div className="header_menu_text">Menu</div>
         <i class="fa-solid fa-bars header_menu_icon"></i> */}
         <div className="header_menu_container">
-          <a
-            href={`${process.env.PUBLIC_URL}/home`}
-            className="header_menu_container_item"
-          >
+          <a href="./home" className="header_menu_container_item">
             Trang chủ
           </a>
-          <a
-            href={`${process.env.PUBLIC_URL}/intro`}
-            className="header_menu_container_item"
-          >
+          <a href="./intro" className="header_menu_container_item">
             Giới thiệu
           </a>
           <a
