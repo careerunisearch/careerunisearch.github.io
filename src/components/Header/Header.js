@@ -1,6 +1,7 @@
 import React from "react";
 import "./Header.css";
 import img1 from "../../img/logo_noName_color1.png";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
@@ -14,12 +15,12 @@ function Header() {
         {/* <div className="header_menu_text">Menu</div>
         <i class="fa-solid fa-bars header_menu_icon"></i> */}
         <div className="header_menu_container">
-          <a href="./home" className="header_menu_container_item">
+          <Link to="/home" className="header_menu_container_item">
             Trang chủ
-          </a>
-          <a href="./intro" className="header_menu_container_item">
+          </Link>
+          <Link to="/intro" className="header_menu_container_item">
             Giới thiệu
-          </a>
+          </Link>
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLSeq1vEHTEzfLg-yXx27UysMJbYVFSVZ2Zv9Eo8xvFPLsCthcg/viewform"
             target="_blank"
