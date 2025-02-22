@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a3bd370.css",
+    "main.js": "/static/js/main.b8ae7d61.js",
+    "static/js/488.5dc00adb.chunk.js": "/static/js/488.5dc00adb.chunk.js",
+    "static/media/Nguyen_Duc.png": "/static/media/Nguyen_Duc.1f1ca4c05daf7ea8c665.png",
+    "static/media/Duong_Minh.png": "/static/media/Duong_Minh.bcdc087f45794920d413.png",
+    "static/media/Tran_Duc.png": "/static/media/Tran_Duc.c9c05afac1ba411f328d.png",
+    "static/media/Nguyen_Vuong.png": "/static/media/Nguyen_Vuong.ac376d77ee3a48d78cc7.png",
+    "static/media/Dinh_Dung.png": "/static/media/Dinh_Dung.b80b6780f52b36f6cae2.png",
+    "static/media/Xuan_Cong.png": "/static/media/Xuan_Cong.7e9a8a8e2fa114a685e8.png",
+    "static/media/Nguyen_Vu.png": "/static/media/Nguyen_Vu.5966eb87c5ebd38e6231.png",
+    "static/media/logo_noName_color1.png": "/static/media/logo_noName_color1.0090af72b77c98d74ace.png",
+    "static/media/background_slider.png": "/static/media/background_slider.3b70250efba3fd4522bb.png",
+    "static/media/Ngo_Vu.png": "/static/media/Ngo_Vu.538a4f6369ad283f096d.png",
+    "static/media/not_found.svg": "/static/media/not_found.809a0c01a81f1304375c2fad22dace8e.svg",
+    "index.html": "/index.html",
+    "main.6a3bd370.css.map": "/static/css/main.6a3bd370.css.map",
+    "main.b8ae7d61.js.map": "/static/js/main.b8ae7d61.js.map",
+    "488.5dc00adb.chunk.js.map": "/static/js/488.5dc00adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a3bd370.css",
+    "static/js/main.b8ae7d61.js"
+  ]
+}
