@@ -15,9 +15,9 @@ function Header() {
         {/* <div className="header_menu_text">Menu</div>
         <i class="fa-solid fa-bars header_menu_icon"></i> */}
         <div className="header_menu_container">
-          <Link to="/home" className="header_menu_container_item">
+          <a href="" className="header_menu_container_item">
             Trang chủ
-          </Link>
+          </a>
           <Link to="/intro" className="header_menu_container_item">
             Giới thiệu
           </Link>
