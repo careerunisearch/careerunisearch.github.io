@@ -1,5 +1,55 @@
-import React from "react";
+import React, { useEffect, useRef, useState } from "react";
 import "./Intro.css";
+import Nguyen_Duc from "../../img/Nguyen_Duc.jpg";
+import Duong_Minh from "../../img/Duong_Minh.jpg";
+import Tran_Duc from "../../img/Tran_Duc.jpg";
+import Ngo_Vu from "../../img/Ngo_Vu.jpg";
+import Nguyen_Vu from "../../img/Nguyen_Vu.jpg";
+import Xuan_Cong from "../../img/Xuan_Cong.jpg";
+import Nguyen_Vuong from "../../img/Nguyen_Vuong.jpg";
+import Dinh_Dung from "../../img/Dinh_Dung.jpg";
+
+const LazyBackground = ({ className, image, children }) => {
+  const [loaded, setLoaded] = useState(false);
+  const divRef = useRef(null);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setLoaded(true);
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.1 }
+    );
+
+    if (divRef.current) {
+      observer.observe(divRef.current);
+    }
+
+    return () => observer.disconnect();
+  }, []);
+
+  console.log(image);
+  return (
+    <div
+      ref={divRef}
+      className={`lazy-bg ${className} ${loaded ? "loaded" : ""}`}
+      style={
+        loaded
+          ? {
+              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0) 40%, #000), url(${image})`,
+            }
+          : {}
+      }
+    >
+      {children}
+    </div>
+  );
+};
 
 function Intro() {
   return (
@@ -24,7 +74,10 @@ function Intro() {
 
       <div className="intro_team">
         <div className="col-3">
-          <div className="intro_team_member Nguyen-Duc">
+          <LazyBackground
+            className="intro_team_member Nguyen-Duc"
+            image={Nguyen_Duc}
+          >
             <div className="intro_team_member_container">
               <div className="intro_team_member_container_role">
                 Leader - Developer
@@ -33,26 +86,32 @@ function Intro() {
                 Nguyễn Minh Đức
               </div>
             </div>
-          </div>
-          <div className="intro_team_member Duong-Minh">
+          </LazyBackground>
+          <LazyBackground
+            className="intro_team_member Duong-Minh"
+            image={Duong_Minh}
+          >
             <div className="intro_team_member_container">
               <div className="intro_team_member_container_role">Sub Leader</div>
               <div className="intro_team_member_container_name">
                 Dương Tự Minh
               </div>
             </div>
-          </div>
-          <div className="intro_team_member Ngo-Vu">
+          </LazyBackground>
+          <LazyBackground className="intro_team_member Ngo-Vu" image={Ngo_Vu}>
             <div className="intro_team_member_container">
               <div className="intro_team_member_container_role">Designer</div>
               <div className="intro_team_member_container_name">
                 Ngô Quang Vũ
               </div>
             </div>
-          </div>
+          </LazyBackground>
         </div>
         <div className="col-3">
-          <div className="intro_team_member Tran-Duc">
+          <LazyBackground
+            className="intro_team_member Tran-Duc"
+            image={Tran_Duc}
+          >
             <div className="intro_team_member_container">
               <div className="intro_team_member_container_role">
                 Social media
@@ -61,41 +120,53 @@ function Intro() {
                 Trần Lưu Đức
               </div>
             </div>
-          </div>
-          <div className="intro_team_member Nguyen-Vu">
+          </LazyBackground>
+          <LazyBackground
+            className="intro_team_member Nguyen-Vu"
+            image={Nguyen_Vu}
+          >
             <div className="intro_team_member_container">
               <div className="intro_team_member_container_role">Designer</div>
               <div className="intro_team_member_container_name">
                 Nguyễn Trần Vũ
               </div>
             </div>
-          </div>
-          <div className="intro_team_member Xuan-Cong">
+          </LazyBackground>
+          <LazyBackground
+            className="intro_team_member Xuan-Cong"
+            image={Xuan_Cong}
+          >
             <div className="intro_team_member_container">
               <div className="intro_team_member_container_role">Content</div>
               <div className="intro_team_member_container_name">
                 Trần Chí Công
               </div>
             </div>
-          </div>
+          </LazyBackground>
         </div>
         <div className="col-3">
-          <div className="intro_team_member Nguyen-Vuong">
+          <LazyBackground
+            className="intro_team_member Nguyen-Vuong"
+            image={Nguyen_Vuong}
+          >
             <div className="intro_team_member_container">
               <div className="intro_team_member_container_role">Content</div>
               <div className="intro_team_member_container_name">
                 Nguyễn Đình Vương
               </div>
             </div>
-          </div>
-          <div className="intro_team_member Dinh-Dung">
+          </LazyBackground>
+          <LazyBackground
+            className="intro_team_member Dinh-Dung"
+            image={Dinh_Dung}
+          >
             <div className="intro_team_member_container">
               <div className="intro_team_member_container_role">Content</div>
               <div className="intro_team_member_container_name">
                 Đinh Đại Dũng
               </div>
             </div>
-          </div>
+          </LazyBackground>
         </div>
       </div>
     </div>
