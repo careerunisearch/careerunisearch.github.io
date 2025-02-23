@@ -4,3 +4,11 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+/* Mobile < 740px  */
+@media (max-width: 46.1875em) {
+  body {
+    min-width: 1200px;
+    display: block;
+  }
+}
