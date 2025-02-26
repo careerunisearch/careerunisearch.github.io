@@ -1,7 +1,7 @@
 @import "../../color/color.css";
 
 .table-content {
-  min-width: 1000px;
+  min-width: 1260px;
   min-height: auto;
   margin: 0 48px;
   background-color: var(--background-color-1);

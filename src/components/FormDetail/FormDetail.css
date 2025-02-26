@@ -116,6 +116,10 @@
   border-radius: 0 0 12px 12px;
 }
 
+.form-detail_data_detail_info a {
+  cursor: pointer;
+}
+
 .form-detail_data_detail_info_address {
   display: flex;
   flex-direction: column;
@@ -232,6 +236,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-right: 24px;
 }
 
 .form-detail_data_detail_body_info_title_name,
