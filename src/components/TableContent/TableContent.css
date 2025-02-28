@@ -1,5 +1,18 @@
 @import "../../color/color.css";
 
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spin {
+  animation: spin 1s linear infinite;
+}
+
 .table-content {
   min-width: 1260px;
   min-height: auto;
@@ -7,6 +20,19 @@
   background-color: var(--background-color-1);
   border-radius: 12px;
   margin-top: 32px;
+}
+
+.table-content_reload.active {
+  display: flex;
+}
+
+.table-content_reload {
+  display: none;
+  justify-content: center;
+  background-color: var(--background-color-4);
+  padding-bottom: 20px;
+  font-size: 24px;
+  color: var(--prime-color);
 }
 
 .table-content_body_info.active {

@@ -2,6 +2,7 @@ import { React, useState, useEffect } from "react";
 import "./FilterSearch.css";
 import MultiSelect from "../MultiSelect/MultiSelect";
 import SingerSelect from "../SingerSelect/SingerSelect";
+import SingerSelect2 from "../SingerSelect2/SingerSelect2";
 import RangeSelect from "../RangeSelect/RangeSelect";
 
 function FilterSearch({
@@ -16,13 +17,13 @@ function FilterSearch({
   appHandleCodeChange,
 }) {
   const [selectedProvinces, setSelectedProvinces] = useState(["1"]);
-  const [selectedType, SetSelectedType] = useState([]);
-  const [selectedMajor, SetSelectedMajor] = useState([]);
-  const [selectedExamBlock, SetSelectedExamBlock] = useState([]);
-  const [selectedYear, SetSelectedYear] = useState(["1"]);
-  const [selectedMethod, SetSelectedMethod] = useState([]);
-  const [selectedTuition, SetSelectedTuition] = useState([]);
-  const [selectedScore, SetSelectedScore] = useState([]);
+  const [selectedType, setSelectedType] = useState([]);
+  const [selectedMajor, setSelectedMajor] = useState([]);
+  const [selectedExamBlock, setSelectedExamBlock] = useState([]);
+  const [selectedYear, setSelectedYear] = useState(["1"]);
+  const [selectedMethod, setSelectedMethod] = useState([]);
+  const [selectedTuition, setSelectedTuition] = useState("");
+  const [selectedScore, setSelectedScore] = useState("");
 
   const [universities, setUniversities] = useState([]);
 
@@ -39,6 +40,7 @@ function FilterSearch({
   const [search, setSearch] = useState("");
   const [toggle, setToggle] = useState(false);
   const [showDropdown, setShowDropdown] = useState(false);
+  const [reset, setReset] = useState(false);
 
   useEffect(() => {
     fetch("/data/Truong.json") // Đúng đường dẫn tới file JSON
@@ -97,31 +99,32 @@ function FilterSearch({
     appHandleProvinceChange(selectedValues);
   };
   const handleTypeChange = (selectedValues) => {
-    SetSelectedType(selectedValues); // Cập nhật state
+    setSelectedType(selectedValues); // Cập nhật state
     appHandleTypeChange(selectedValues);
   };
   const handleMajorChange = (selectedValues) => {
-    SetSelectedMajor(selectedValues); // Cập nhật state
+    setSelectedMajor(selectedValues); // Cập nhật state
     appHandleMajorChange(selectedValues);
   };
   const handleExamBlockChange = (selectedValues) => {
-    SetSelectedExamBlock(selectedValues); // Cập nhật state
+    setSelectedExamBlock(selectedValues); // Cập nhật state
     appHandleExamBlockChange(selectedValues);
   };
   const handleYearChange = (selectedValues) => {
-    SetSelectedYear(selectedValues); // Cập nhật state
+    setSelectedYear(selectedValues); // Cập nhật state
     appHandleYearChange(selectedValues);
   };
+
   const handleMethodChange = (selectedValues) => {
-    SetSelectedMethod(selectedValues); // Cập nhật state
+    setSelectedMethod(selectedValues); // Cập nhật state
     appHandleMethodChange(selectedValues);
   };
   const handleTuitionChange = (selectedValues) => {
-    SetSelectedTuition(selectedValues); // Cập nhật state
+    setSelectedTuition(selectedValues); // Cập nhật state
     appHandleTuitionChange(selectedValues);
   };
   const handleScoreChange = (selectedValues) => {
-    SetSelectedScore(selectedValues); // Cập nhật state
+    setSelectedScore(selectedValues); // Cập nhật state
     appHandleScoreChange(selectedValues);
   };
 
@@ -151,7 +154,21 @@ function FilterSearch({
     appHandleCodeChange(key);
   };
 
-  console.log(filteredUniversities);
+  const handleSearch = () => {
+    //  setSearch(search);
+    setShowDropdown(false);
+    const keysArray = filteredUniversities.map(([key, _]) => key);
+    appHandleCodeChange([...keysArray]);
+    console.log("xin chao");
+  };
+
+  const handleKeyDown = (e) => {
+    if (e.key === "Enter") {
+      handleSearch();
+    }
+  };
+
+  //   console.log(selectedTypetype);
   return (
     <div className="filter-search">
       <div className="filter-search_header">
@@ -162,7 +179,28 @@ function FilterSearch({
                 ? "filter-search_header_title_filter active"
                 : "filter-search_header_title_filter"
             }
-            onClick={() => setToggle(false)}
+            onClick={() => {
+              // khởi tạo lại những giá trị mặc định cho bảng lọc, để bảng lọc hiển thị thông tin
+              handleProvinceChange(["1"]);
+              handleTypeChange(["0"]);
+              handleMajorChange(["0"]);
+              handleExamBlockChange(["0"]);
+              handleYearChange(["1"]);
+              handleMethodChange(["0"]);
+              handleTuitionChange([]);
+              handleScoreChange([]);
+
+              setSelectedProvinces(["1"]);
+              setSelectedType([]);
+              setSelectedMajor([]);
+              setSelectedExamBlock([]);
+              setSelectedYear(["1"]);
+              setSelectedMethod([]);
+              setSelectedTuition("");
+              setSelectedScore("");
+              setToggle(false);
+              setReset(false);
+            }}
           >
             <i class="fa-solid fa-filter"></i>
             <span>Bộ lọc</span>
@@ -173,7 +211,28 @@ function FilterSearch({
                 ? "filter-search_header_title_filter active"
                 : "filter-search_header_title_filter"
             }
-            onClick={() => setToggle(true)}
+            onClick={() => {
+              // tắt hết tính năng lọc
+              handleProvinceChange([]);
+              handleTypeChange([]);
+              handleMajorChange([]);
+              handleExamBlockChange([]);
+              handleYearChange([]);
+              handleMethodChange([]);
+              handleTuitionChange([]);
+              handleScoreChange([]);
+
+              setSelectedProvinces(["1"]);
+              setSelectedType([]);
+              setSelectedMajor([]);
+              setSelectedExamBlock([]);
+              setSelectedYear(["1"]);
+              setSelectedMethod([]);
+              setSelectedTuition("");
+              setSelectedScore("");
+              setToggle(true);
+              setReset(true);
+            }}
           >
             <i class="fa-solid fa-search"></i>
             <span>Tìm theo tên</span>
@@ -197,24 +256,28 @@ function FilterSearch({
               label="Thành phố / Tỉnh"
               value={selectedProvinces}
               onChange={handleProvinceChange}
+              reset={reset}
             />
             <MultiSelect
               options={type}
               label="Loại hình"
               value={selectedType}
               onChange={handleTypeChange}
+              reset={reset}
             />
             <MultiSelect
               options={major}
-              label="Ngành học"
+              label="Nhóm ngành"
               value={selectedMajor}
               onChange={handleMajorChange}
+              reset={reset}
             />
             <MultiSelect
               options={examBlock}
               label="Khối thi"
               value={selectedExamBlock}
               onChange={handleExamBlockChange}
+              reset={reset}
             />
           </div>
           <div className="filter-search_body_filter-univerity_row">
@@ -223,26 +286,29 @@ function FilterSearch({
               label="Năm"
               value={selectedYear}
               onChange={handleYearChange}
+              reset={reset}
             />
             <SingerSelect
               options={method}
               label="Phương thức xét"
               value={selectedMethod}
               onChange={handleMethodChange}
+              reset={reset}
             />
             <RangeSelect
               options={tuition}
-              label="Học phí"
+              label="Học phí mỗi năm"
               value={selectedTuition}
-              //   check = (selectedMethod. === "0") ?
               onChange={handleTuitionChange}
+              reset={reset}
             />
             <RangeSelect
               options={score}
               label="Điểm chuẩn"
               check={selectedMethod}
-              value=""
+              value={selectedScore}
               onChange={handleScoreChange}
+              reset={reset}
             />
           </div>
 
@@ -258,34 +324,43 @@ function FilterSearch({
               : "filter-search_body_search-name"
           }
         >
-          <div
-            onClick={() => handleSelect(["X", search])}
-            className="filter-search_body_search-name_btn"
-          >
-            <input
-              type="text"
-              placeholder="Nhập tên hoặc mã trường"
-              value={search}
-              onChange={(e) => handleChange(e.target.value)}
-            />
-            <i className="fa-solid fa-search"></i>
-          </div>
-          <div
-            className={
-              showDropdown
-                ? "filter-search_body_search-name_drop-table active"
-                : "filter-search_body_search-name_drop-table"
-            }
-          >
-            {filteredUniversities.map(([key, value]) => (
-              <div
-                className="filter-search_body_search-name_drop-table_item"
-                key={key}
-                onClick={() => handleSelect([key, value])}
-              >
-                {value}
-              </div>
-            ))}
+          <SingerSelect2
+            options={year}
+            label="Năm"
+            value={selectedYear}
+            onChange={handleYearChange}
+          />
+          <div className="">
+            <div
+              onClick={handleSearch}
+              className="filter-search_body_search-name_btn"
+            >
+              <input
+                type="text"
+                placeholder="Nhập tên hoặc mã trường"
+                value={search}
+                onChange={(e) => handleChange(e.target.value)}
+                onKeyDown={handleKeyDown}
+              />
+              <i className="fa-solid fa-search"></i>
+            </div>
+            <div
+              className={
+                showDropdown
+                  ? "filter-search_body_search-name_drop-table active"
+                  : "filter-search_body_search-name_drop-table"
+              }
+            >
+              {filteredUniversities.map(([key, value]) => (
+                <div
+                  className="filter-search_body_search-name_drop-table_item"
+                  key={key}
+                  onClick={() => handleSelect([key, value])}
+                >
+                  {value}
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </div>

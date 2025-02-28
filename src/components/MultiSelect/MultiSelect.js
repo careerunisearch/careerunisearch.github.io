@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import "./MultiSelect.css";
 
-function MultiSelect({ options, label, value, onChange }) {
+function MultiSelect({ options, label, value, onChange, reset }) {
   const [search, setSearch] = useState("");
   const [selected, setSelected] = useState(value); // Chỉ lưu key
   const [open, setOpen] = useState(false);
@@ -22,7 +22,10 @@ function MultiSelect({ options, label, value, onChange }) {
     };
   }, []);
 
-  //
+  useEffect(() => {
+    if (reset === true) setSelected(value);
+  }, [reset]);
+
   const toggleSelect = (key) => {
     let newSelected;
 

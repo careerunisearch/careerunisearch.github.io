@@ -1,13 +1,22 @@
 import React, { useRef, useEffect, useState } from "react";
 import "./FormDetail.css";
 
-function FormDetail({ index, page, limit, data, province, type, examBlock }) {
-  const [toggle, setToggle] = useState(false);
+function FormDetail({
+  index,
+  page,
+  limit,
+  data,
+  province,
+  type,
+  examBlock,
+  isToggle,
+}) {
+  const [toggle, setToggle] = useState(isToggle);
   const [dataCareer, setDataCareer] = useState(data.majors);
   const scrollContainerRef = useRef(null);
 
   useEffect(() => {
-    setToggle(0);
+    setToggle(isToggle);
   }, [page]);
 
   const handleWheel = (event) => {

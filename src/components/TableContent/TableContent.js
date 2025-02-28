@@ -30,7 +30,7 @@ function TableContent({
 
   const [listCarrer, setListCarrer] = useState([]);
   const [trigger, setTrigger] = useState(true);
-
+  const [loading, setLoading] = useState(false);
   //   console.log("selectedName: " + filterName);
   // lấy kí hiệu
   useEffect(() => {
@@ -105,6 +105,9 @@ function TableContent({
   //   console.log("selectedMethod: " + filterMethod);
   // Hàm lọc danh sách trường theo 8 tiêu chí
   useEffect(() => {
+    setLoading(true);
+
+    const startTime = Date.now(); // Lưu thời điểm bắt đầu
     const filteredUniversities = universities.filter((uni) => {
       // console.log(filterProvinces + "uni Ma Tinh_Thanh: " + uni.Ma_Tinh_Thanh);
       // console.log(typeof uni.Ma_Tinh_Thanh, `"${uni.Ma_Tinh_Thanh}"`);
@@ -124,7 +127,7 @@ function TableContent({
         const universityCode = uni.Ma_Truong;
         const majorList = listCarrer[universityCode] || [];
         const filteredMajors = majorList.filter((major) => {
-          console.log("Nhom Nganh 11: " + (filterMethod === "1"));
+          //  console.log("Nhom Nganh 11: " + (filterMethod === "1"));
           return (
             (filterMethod[0] === "0" ||
               (filterMethod[0] === "1" && parseFloat(major.TN_THPT) > 0) ||
@@ -170,6 +173,13 @@ function TableContent({
     setTrigger(filteredData.length > 0);
     setLastData(filteredData);
     setTotalItems(filteredData.length);
+    setPage(1);
+
+    const elapsedTime = Date.now() - startTime;
+    const remainingTime = Math.max(100 - elapsedTime, 0);
+    setTimeout(() => {
+      setLoading(false);
+    }, 100);
   }, [
     universities,
     listCarrer,
@@ -190,7 +200,11 @@ function TableContent({
   }, [page]);
   //   console.log(filterCode);
 
+  // lọc bằng tìm kiếm
   useEffect(() => {
+    setLoading(true);
+
+    const startTime = Date.now(); // Lưu thời điểm bắt đầu
     const filteredUniversities = universities.filter((uni) => {
       return filterCode.includes(uni.Ma_Truong);
     });
@@ -213,7 +227,15 @@ function TableContent({
     setTrigger(filteredData.length > 0);
     setLastData(filteredData);
     setTotalItems(filteredData.length);
-  }, [filterCode]);
+    setPage(1);
+
+    const elapsedTime = Date.now() - startTime;
+    const remainingTime = Math.max(100 - elapsedTime, 0);
+    setTimeout(() => {
+      setLoading(false);
+    }, 100);
+    //  setIsToggle(true);
+  }, [listCarrer, filterCode]);
 
   const totalPages = Math.ceil(totalItems / limit);
 
@@ -223,6 +245,13 @@ function TableContent({
 
   return (
     <div className="table-content">
+      <div
+        className={
+          loading ? "table-content_reload active" : "table-content_reload"
+        }
+      >
+        <i class="fa-solid fa-rotate spin"></i>
+      </div>
       <div
         className={
           trigger ? "table-content_body_info active" : "table-content_body_info"
@@ -255,6 +284,7 @@ function TableContent({
                 province={province[item.Ma_Tinh_Thanh]}
                 type={type[item.Ma_Loai_Hinh]}
                 examBlock={examBlock}
+                isToggle={lastDataDisplay.length === 1}
                 onChange={handleTriggerChange}
               />
             );

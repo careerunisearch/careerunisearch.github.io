@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import "./RangeSelect.css";
 
-function RangeSelect({ label, check, value, onChange }) {
+function RangeSelect({ label, check, value, onChange, reset }) {
   const [range, setRange] = useState(value || { from: "", to: "" });
   const [open, setOpen] = useState(false);
   const dropdownRef = useRef(null);
@@ -17,6 +17,10 @@ function RangeSelect({ label, check, value, onChange }) {
       document.removeEventListener("mousedown", handleClickOutside);
     };
   }, []);
+
+  useEffect(() => {
+    if (reset === true) setRange(value || { from: "", to: "" });
+  }, [reset]);
 
   useEffect(() => {
     if (label === "Điểm chuẩn") {

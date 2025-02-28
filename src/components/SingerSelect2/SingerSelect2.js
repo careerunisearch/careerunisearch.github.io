@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
-import "./SingerSelect.css";
+import "./SingerSelect2.css";
 
-function SingerSelect({ options, label, value, onChange, reset }) {
+function SingerSelect2({ options, label, value, onChange }) {
   const [search, setSearch] = useState("");
   const [selected, setSelected] = useState(value);
   const [open, setOpen] = useState(false);
@@ -22,10 +22,6 @@ function SingerSelect({ options, label, value, onChange, reset }) {
     };
   }, []);
 
-  useEffect(() => {
-    if (reset === true) setSelected(value);
-  }, [reset]);
-
   const toggleSelect = (key, value) => {
     setSelected([key]); // Cập nhật state với giá trị được chọn
     if (onChange) {
@@ -38,13 +34,13 @@ function SingerSelect({ options, label, value, onChange, reset }) {
   );
 
   return (
-    <div className="singer-select" ref={dropdownRef}>
+    <div className="singer-select-2" ref={dropdownRef}>
       <div
-        className="singer-select_filter-label"
+        className="singer-select-2_filter-label"
         onClick={() => setOpen(!open)}
       >
         {selected.length > 0 ? (
-          <span className="singer-select_filter-label_info">
+          <span className="singer-select-2_filter-label_info">
             {options[selected]}
           </span>
         ) : (
@@ -55,11 +51,11 @@ function SingerSelect({ options, label, value, onChange, reset }) {
       <div
         className={
           open
-            ? "singer-select_filter-drop active"
-            : "singer-select_filter-drop"
+            ? "singer-select-2_filter-drop active"
+            : "singer-select-2_filter-drop"
         }
       >
-        <div className="singer-select_filter-drop_search">
+        <div className="singer-select-2_filter-drop_search">
           <input
             type="text"
             placeholder="Tìm kiếm ..."
@@ -68,19 +64,19 @@ function SingerSelect({ options, label, value, onChange, reset }) {
           />
           <i className="fa-solid fa-search"></i>
         </div>
-        <div className="singer-select_filter-drop_table">
+        <div className="singer-select-2_filter-drop_table">
           {filteredOptions.map(([key, value]) => (
             <div
               key={key}
               onClick={() => toggleSelect(key, value)}
               className={
                 selected.includes(key)
-                  ? "singer-select_filter-drop_table_item active"
-                  : "singer-select_filter-drop_table_item"
+                  ? "singer-select-2_filter-drop_table_item active"
+                  : "singer-select-2_filter-drop_table_item"
               }
             >
               <span>{value}</span>
-              <div className="singer-select_filter-drop_table_item_btn">
+              <div className="singer-select-2_filter-drop_table_item_btn">
                 <i className="fa-solid fa-check"></i>
               </div>
             </div>
@@ -91,4 +87,4 @@ function SingerSelect({ options, label, value, onChange, reset }) {
   );
 }
 
-export default SingerSelect;
+export default SingerSelect2;
