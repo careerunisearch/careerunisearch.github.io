@@ -103,6 +103,43 @@ function TableContent({
   }, [filterYear]);
 
   //   console.log("selectedMethod: " + filterMethod);
+
+  // lọc bằng tìm kiếm
+  useEffect(() => {
+    setLoading(true);
+
+    const startTime = Date.now(); // Lưu thời điểm bắt đầu
+    const filteredUniversities = universities.filter((uni) => {
+      return filterCode.includes(uni.Ma_Truong);
+    });
+
+    const filteredData = filteredUniversities
+      .map((uni) => {
+        const universityCode = uni.Ma_Truong;
+        const majorList = listCarrer[universityCode] || [];
+        const filteredMajors = majorList.filter((major) => {
+          return 1;
+        });
+        return {
+          ...uni,
+          majors: filteredMajors,
+        };
+      })
+      .filter((uni) => uni.majors.length > 0); // Chỉ giữ lại trường có ngành phù hợp
+
+    setLastDataDisplay(filteredData);
+    setTrigger(filteredData.length > 0);
+    setLastData(filteredData);
+    setTotalItems(filteredData.length);
+    setPage(1);
+
+    const elapsedTime = Date.now() - startTime;
+    const remainingTime = Math.max(100 - elapsedTime, 0);
+    setTimeout(() => {
+      setLoading(false);
+    }, 100);
+    //  setIsToggle(true);
+  }, [listCarrer, filterCode]);
   // Hàm lọc danh sách trường theo 8 tiêu chí
   useEffect(() => {
     setLoading(true);
@@ -199,43 +236,6 @@ function TableContent({
     setLastDataDisplay(lastData.slice(start, end));
   }, [page]);
   //   console.log(filterCode);
-
-  // lọc bằng tìm kiếm
-  useEffect(() => {
-    setLoading(true);
-
-    const startTime = Date.now(); // Lưu thời điểm bắt đầu
-    const filteredUniversities = universities.filter((uni) => {
-      return filterCode.includes(uni.Ma_Truong);
-    });
-
-    const filteredData = filteredUniversities
-      .map((uni) => {
-        const universityCode = uni.Ma_Truong;
-        const majorList = listCarrer[universityCode] || [];
-        const filteredMajors = majorList.filter((major) => {
-          return 1;
-        });
-        return {
-          ...uni,
-          majors: filteredMajors,
-        };
-      })
-      .filter((uni) => uni.majors.length > 0); // Chỉ giữ lại trường có ngành phù hợp
-
-    setLastDataDisplay(filteredData);
-    setTrigger(filteredData.length > 0);
-    setLastData(filteredData);
-    setTotalItems(filteredData.length);
-    setPage(1);
-
-    const elapsedTime = Date.now() - startTime;
-    const remainingTime = Math.max(100 - elapsedTime, 0);
-    setTimeout(() => {
-      setLoading(false);
-    }, 100);
-    //  setIsToggle(true);
-  }, [listCarrer, filterCode]);
 
   const totalPages = Math.ceil(totalItems / limit);
 

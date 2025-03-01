@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <div className="header">
-      <a className="header_main-logo" href="">
+      <a className="header_main-logo" href="/">
         <img className="header_main-logo_img" src={img1} alt="" />
         <div className="header_main-logo_text">Career Uni Search</div>
       </a>
@@ -15,10 +15,10 @@ function Header() {
         {/* <div className="header_menu_text">Menu</div>
         <i class="fa-solid fa-bars header_menu_icon"></i> */}
         <div className="header_menu_container">
-          <a href="" className="header_menu_container_item">
+          <a href="/" className="header_menu_container_item">
             Trang chủ
           </a>
-          <Link to="/intro" className="header_menu_container_item">
+          <Link to="/gioi-thieu" className="header_menu_container_item">
             Giới thiệu
           </Link>
           <a

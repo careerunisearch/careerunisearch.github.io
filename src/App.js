@@ -1,8 +1,9 @@
 import { useEffect } from "react";
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Routes,
   Route,
+  Navigate,
   useLocation,
 } from "react-router-dom";
 import ReactGA from "react-ga4";
@@ -33,9 +34,12 @@ function App() {
         <Analytics /> {/* Theo dõi sự kiện chuyển trang */}
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/home" element={<Home />} />
-          <Route path="/intro" element={<Intro />} />
+          <Route
+            path="/"
+            element={<Navigate to="/tim-truong-dh-cd" replace />}
+          />
+          <Route path="/tim-truong-dh-cd" element={<Home />} />
+          <Route path="/gioi-thieu" element={<Intro />} />
         </Routes>
         <Footer />
       </Router>
