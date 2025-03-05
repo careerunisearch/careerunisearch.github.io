@@ -167,7 +167,7 @@ function TableContent({
           //  console.log("Nhom Nganh 11: " + (filterMethod === "1"));
           return (
             (filterMethod[0] === "0" ||
-              (filterMethod[0] === "1" && parseFloat(major.TN_THPT) > 0) ||
+              (filterMethod[0] === "1" && parseFloat(major.TN_THPT) >= 0) ||
               (filterMethod[0] === "2" && parseFloat(major.DGNL) > 0) ||
               (filterMethod[0] === "3" && parseFloat(major.TSA) > 0)) &&
             (filterMajor.length === 0 ||

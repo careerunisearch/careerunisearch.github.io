@@ -10,7 +10,7 @@ function Footer() {
         <span>Career Uni Search</span>
       </a>
       <div className="footer_text">
-        Uni Career Search – Công cụ hỗ trợ học sinh THPT tra cứu thông tin về
+        Career Uni Search – Công cụ hỗ trợ học sinh THPT tra cứu thông tin về
         các ngành nghề của các trường đại học và cao đẳng, một cách dễ dàng và
         chính xác.
       </div>

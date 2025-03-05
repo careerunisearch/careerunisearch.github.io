@@ -148,7 +148,9 @@ function FormDetail({
                       {item.DGNL === "0" ? "-" : item.DGNL}
                     </p>
                     <p className="form-detail_data_detail_body_info_container_data_other">
-                      {item.TN_THPT === "0" ? "-" : item.TN_THPT}
+                      {item.TN_THPT === "0"
+                        ? "Xét học bạ THPT/ THCS"
+                        : item.TN_THPT}
                     </p>
                     <p className="form-detail_data_detail_body_info_container_data_money">
                       {item.Hoc_Phi_Moi_Nam_Tu === item.Hoc_Phi_Moi_Nam_Den
