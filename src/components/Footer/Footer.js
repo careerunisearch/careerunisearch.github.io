@@ -5,7 +5,7 @@ import img1 from "../../img/logo_noName_color1.png";
 function Footer() {
   return (
     <div className="footer">
-      <a href="" className="footer_logo">
+      <a href="/" className="footer_logo">
         <img src={img1} alt="" />
         <span>Career Uni Search</span>
       </a>
