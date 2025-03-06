@@ -155,8 +155,8 @@ function FormDetail({
                         : item.TN_THPT}
                     </p>
                     <p className="form-detail_data_detail_body_info_container_data_money">
-                      {item.Hoc_Phi_Moi_Nam_Tu === item.Hoc_Phi_Moi_Nam_Den &&
-                      item.Hoc_Phi_Moi_Nam_Tu == "0"
+                      {item.Hoc_Phi_Moi_Nam_Tu !== "0" ||
+                      item.Hoc_Phi_Moi_Nam_Tu !== "0"
                         ? item.Hoc_Phi_Moi_Nam_Tu === item.Hoc_Phi_Moi_Nam_Den
                           ? "~ " + item.Hoc_Phi_Moi_Nam_Tu
                           : item.Hoc_Phi_Moi_Nam_Tu +
