@@ -157,7 +157,7 @@ function FormDetail({
                     <p className="form-detail_data_detail_body_info_container_data_money">
                       {item.Hoc_Phi_Moi_Nam_Den == "-1" &&
                       item.Hoc_Phi_Moi_Nam_Den == "-1"
-                        ? "-"
+                        ? "đang cập nhật"
                         : item.Hoc_Phi_Moi_Nam_Tu !== "0" ||
                           item.Hoc_Phi_Moi_Nam_Tu !== "0"
                         ? item.Hoc_Phi_Moi_Nam_Tu === item.Hoc_Phi_Moi_Nam_Den
