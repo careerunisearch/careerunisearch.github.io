@@ -47,7 +47,9 @@ function FormDetail({
             {index + limit * (page - 1) + 1}
           </p>
           <p className="form-detail_data_name">{data.Ten_Truong}</p>
-          <p className="form-detail_data_code">{data.Ma_Truong}</p>
+          <p className="form-detail_data_code">
+            {data.Ma_Truong.endsWith("#") ? " " : data.Ma_Truong}
+          </p>
           <p className="form-detail_data_type">{type}</p>
           <p className="form-detail_data_address">{province}</p>
           <i class="fa-solid fa-angle-down form-detail_data_icon"></i>
