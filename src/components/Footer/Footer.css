@@ -21,6 +21,10 @@
   font-size: 20px;
 }
 
+.footer_logo .hightlight {
+  color: var(--text-hightlight-1);
+}
+
 .footer_text {
   display: flex;
   justify-content: center;

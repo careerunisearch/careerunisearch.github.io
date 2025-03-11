@@ -7,7 +7,9 @@ function Footer() {
     <div className="footer">
       <a href="/" className="footer_logo">
         <img src={img1} alt="" />
-        <span>Career Uni Search</span>
+        <span>
+          Career <span className="hightlight">Uni</span> Search
+        </span>
       </a>
       <div className="footer_text">
         Career Uni Search – Công cụ hỗ trợ học sinh THPT tra cứu thông tin về

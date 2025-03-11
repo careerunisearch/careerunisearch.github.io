@@ -47,6 +47,7 @@
   font-weight: 600;
   margin-right: 8px;
 }
+
 .header_menu_icon {
   font-size: 24px;
 }
@@ -70,4 +71,8 @@
 
 .header_menu_container_item:hover {
   color: var(--btn-color-active-2);
+}
+
+.header_main-logo_text .hightlight {
+  color: var(--text-hightlight-1);
 }

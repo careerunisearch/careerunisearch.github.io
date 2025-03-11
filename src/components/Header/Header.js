@@ -8,7 +8,9 @@ function Header() {
     <div className="header">
       <a className="header_main-logo" href="/">
         <img className="header_main-logo_img" src={img1} alt="" />
-        <div className="header_main-logo_text">Career Uni Search</div>
+        <div className="header_main-logo_text">
+          Career <span className="hightlight">Uni</span> Search
+        </div>
       </a>
 
       <div className="header_menu">
