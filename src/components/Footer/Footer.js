@@ -22,14 +22,14 @@ function Footer() {
         >
           <i class="fa-brands fa-facebook"></i>
         </a>
-        <a
+        {/* <a
           target="blank"
           className="footer_contact_link"
-          href="https://github.com/careerunisearch"
+          href=""
         >
           {" "}
           <i class="fa-brands fa-github"></i>
-        </a>
+        </a> */}
         <a
           target="blank"
           className="footer_contact_link"

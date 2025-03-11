@@ -120,6 +120,10 @@
   cursor: pointer;
 }
 
+.form-detail_data_detail_info_link.disable {
+  display: none;
+}
+
 .form-detail_data_detail_info_address {
   display: flex;
   flex-direction: column;

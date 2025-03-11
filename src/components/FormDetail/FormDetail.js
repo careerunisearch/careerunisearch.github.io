@@ -9,6 +9,7 @@ function FormDetail({
   province,
   type,
   examBlock,
+  source,
   isToggle,
 }) {
   const [toggle, setToggle] = useState(isToggle);
@@ -79,19 +80,55 @@ function FormDetail({
             </div>
             <div className="form-detail_data_detail_info">
               <p>Nguồn điểm chuẩn: </p>
-              <a href={data.TSA} target="_blank" rel="noopener noreferrer">
+              <a
+                href={source[data.Ma_Truong]?.[0]?.TSA}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={
+                  source[data.Ma_Truong]?.[0]?.TSA != null
+                    ? "form-detail_data_detail_info_link"
+                    : "form-detail_data_detail_info_link disable"
+                }
+              >
                 TSA
               </a>
-              <a href={data.DGNL} target="_blank" rel="noopener noreferrer">
+              <a
+                href={source[data.Ma_Truong]?.[0]?.DGNL}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={
+                  source[data.Ma_Truong]?.[0]?.DGNL != null
+                    ? "form-detail_data_detail_info_link"
+                    : "form-detail_data_detail_info_link disable"
+                }
+              >
                 ĐGNL
               </a>
-              <a href={data.TN_THPT} target="_blank" rel="noopener noreferrer">
+              <a
+                href={source[data.Ma_Truong]?.[0]?.TN_THPT}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={
+                  source[data.Ma_Truong]?.[0]?.TN_THPT != null
+                    ? "form-detail_data_detail_info_link"
+                    : "form-detail_data_detail_info_link disable"
+                }
+              >
                 TN THPT
               </a>
             </div>
             <div className="form-detail_data_detail_info">
               <p>Nguồn học phí: </p>
-              <a href={data.Website} target="_blank" rel="noopener noreferrer">
+              <a
+                href={source[data.Ma_Truong]?.[0]?.Hoc_Phi}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={
+                  source[data.Ma_Truong]?.[0]?.Hoc_Phi != null
+                    ? "form-detail_data_detail_info_link"
+                    : "form-detail_data_detail_info_link disable"
+                }
+              >
                 Học phí
               </a>
             </div>

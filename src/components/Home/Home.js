@@ -15,6 +15,7 @@ function Home() {
   const [selectedTuition, SetSelectedTuition] = useState([]);
   const [selectedScore, SetSelectedScore] = useState([]);
   const [selectedCode, SetSelectedCode] = useState([]);
+  const [resetAction, SetResetAction] = useState(true);
 
   const handleProvinceChange = (selectedValues) => {
     setSelectedProvinces(selectedValues); // Cập nhật state
@@ -43,6 +44,7 @@ function Home() {
   const handleCodeChange = (selectedValues) => {
     SetSelectedCode(selectedValues); // Cập nhật state
   };
+
   return (
     <div>
       <Slider />

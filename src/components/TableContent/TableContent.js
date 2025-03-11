@@ -29,8 +29,10 @@ function TableContent({
   const [examBlock, setExamBlock] = useState([]);
 
   const [listCarrer, setListCarrer] = useState([]);
+  const [listSource, setListSource] = useState([]);
   const [trigger, setTrigger] = useState(true);
   const [loading, setLoading] = useState(false);
+
   //   console.log("selectedName: " + filterName);
   // lấy kí hiệu
   useEffect(() => {
@@ -85,6 +87,13 @@ function TableContent({
           setListCarrer(json);
         })
         .catch((error) => console.error("Lỗi khi tải JSON:", error));
+
+      fetch("/data/Source_2024.json") // Đúng đường dẫn tới file JSON
+        .then((response) => response.json())
+        .then((json) => {
+          setListSource(json);
+        })
+        .catch((error) => console.error("Lỗi khi tải JSON:", error));
     } else if (filterYear == "2") {
       fetch("/data/Danh_Sach_Nganh_2023.json") // Đúng đường dẫn tới file JSON
         .then((response) => response.json())
@@ -92,6 +101,11 @@ function TableContent({
           setListCarrer(json);
         })
         .catch((error) => console.error("Lỗi khi tải JSON:", error));
+      fetch("/data/Source_2023.json") // Đúng đường dẫn tới file JSON
+        .then((response) => response.json())
+        .then((json) => {
+          setListSource(json);
+        });
     } else if (filterYear == "3") {
       fetch("/data/Danh_Sach_Nganh_2022.json") // Đúng đường dẫn tới file JSON
         .then((response) => response.json())
@@ -99,10 +113,15 @@ function TableContent({
           setListCarrer(json);
         })
         .catch((error) => console.error("Lỗi khi tải JSON:", error));
+      fetch("/data/Source_2022.json") // Đúng đường dẫn tới file JSON
+        .then((response) => response.json())
+        .then((json) => {
+          setListSource(json);
+        });
     }
   }, [filterYear]);
 
-  //   console.log("selectedMethod: " + filterMethod);
+  //   console.log("selectedMethod: " + listCarrer);
 
   // lọc bằng tìm kiếm
   useEffect(() => {
@@ -132,7 +151,6 @@ function TableContent({
     setLastData(filteredData);
     setTotalItems(filteredData.length);
     setPage(1);
-
     const elapsedTime = Date.now() - startTime;
     const remainingTime = Math.max(100 - elapsedTime, 0);
     setTimeout(() => {
@@ -140,6 +158,7 @@ function TableContent({
     }, 100);
     //  setIsToggle(true);
   }, [listCarrer, filterCode]);
+
   // Hàm lọc danh sách trường theo 8 tiêu chí
   useEffect(() => {
     setLoading(true);
@@ -157,7 +176,7 @@ function TableContent({
       );
     });
 
-    //  console.log(universities);
+    //  console.log(filteredUniversities.length);
 
     const filteredData = filteredUniversities
       .map((uni) => {
@@ -202,7 +221,7 @@ function TableContent({
         };
       })
       .filter((uni) => uni.majors.length > 0); // Chỉ giữ lại trường có ngành phù hợp
-    //   console.log(filteredData);
+    // console.log(filteredData);
     setTotalItems(filteredData.length);
     const start = (page - 1) * limit;
     const end = start + limit;
@@ -211,7 +230,6 @@ function TableContent({
     setLastData(filteredData);
     setTotalItems(filteredData.length);
     setPage(1);
-
     const elapsedTime = Date.now() - startTime;
     const remainingTime = Math.max(100 - elapsedTime, 0);
     setTimeout(() => {
@@ -284,6 +302,7 @@ function TableContent({
                 province={province[item.Ma_Tinh_Thanh]}
                 type={type[item.Ma_Loai_Hinh]}
                 examBlock={examBlock}
+                source={listSource}
                 isToggle={lastDataDisplay.length === 1}
                 onChange={handleTriggerChange}
               />
