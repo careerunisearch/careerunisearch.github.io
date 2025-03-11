@@ -2,1145 +2,1121 @@
   {
     "Ten_Truong": "Trường Đại học Bách khoa Hà Nội",
     "Ma_Truong": "BKA",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://hust.edu.vn",
     "Dia_Chi": "Số 1 Đại Cồ Việt, Hai Bà Trưng, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Công nghệ (ĐHQG Hà Nội)",
     "Ma_Truong": "QHI",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://uet.vnu.edu.vn",
     "Dia_Chi": "E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Trường ĐH Khoa học Tự nhiên (ĐHQG Hà Nội)",
     "Ma_Truong": "QHT",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://hus.vnu.edu.vn",
     "Dia_Chi": "334 Nguyễn Trãi - Thanh Xuân - Hà Nội"
   },
   {
     "Ten_Truong": "Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG Hà Nội)",
     "Ma_Truong": "QHX",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://ussh.vnu.edu.vn",
     "Dia_Chi": "336 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Kinh tế (ĐHQG Hà Nội)",
     "Ma_Truong": "QHE",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://ueb.edu.vn",
     "Dia_Chi": "144 đường Xuân Thủy, quận Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Ngoại ngữ (ĐHQG Hà Nội)",
     "Ma_Truong": "QHF",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://ulis.vnu.edu.vn/",
     "Dia_Chi": "Số 2 Đường Phạm Văn Đồng, Q. Cầu Giấy, TP. Hà Nội"
   },
   {
-    "Ten_Truong": "Khoa Luật (ĐHQG Hà Nội)",
+    "Ten_Truong": "Trường Đại học luật (ĐHQG Hà Nội)",
     "Ma_Truong": "QHL",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://law.vnu.edu.vn/",
     "Dia_Chi": "Nhà E1, 144 đường Xuân Thủy, Cầu Giấy, Hà Nộ"
   },
   {
     "Ten_Truong": "Trường ĐH Giáo dục (ĐHQG Hà Nội)",
     "Ma_Truong": "QHS",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://education.vnu.edu.vn/",
     "Dia_Chi": "Nhà G7, 144 đường Xuân Thủy, quận Cầu Giấy, Hà Nội"
   },
   {
-    "Ten_Truong": "Khoa Y Dược (ĐHQG Hà Nội)",
+    "Ten_Truong": "Trường Đại học Y Dược  (ĐHQG Hà Nội)",
     "Ma_Truong": "QHY",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.smp.vnu.edu.vn/",
     "Dia_Chi": "Nhà Y1, 144 Xuân Thủy, Cầu Giấy, TP. Hà Nội"
   },
   {
-    "Ten_Truong": "Khoa Quốc tế (ĐHQG Hà Nội)",
+    "Ten_Truong": "Trường Quốc tế (ĐHQG Hà Nội)",
     "Ma_Truong": "QHQ",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://is.vnu.edu.vn/",
     "Dia_Chi": "Nhà G7, 144 Xuân Thủy, Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Công đoàn",
     "Ma_Truong": "LDA",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.dhcd.edu.vn/",
     "Dia_Chi": "169 Tây Sơn, Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Công nghệ Giao thông vận tải",
     "Ma_Truong": "GTA",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://utt.edu.vn/",
     "Dia_Chi": "54 Triều Khúc, Thanh Xuân, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Công nghiệp Hà Nội",
     "Ma_Truong": "DCN",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://www.haui.edu.vn/",
     "Dia_Chi": "Cơ sở 1: Số 298, đường Cầu Diễn, Phường Minh Khai, quận Bắc Từ Liêm, TP. Hà Nội\nCơ sở 2: Phường Tây Tựu, quận Bắc Từ Liêm, Hà Nội \nCơ sở 3: Phường Lê Hồng Phong, thành phố Phủ Lý, Hà Nam"
   },
   {
     "Ten_Truong": "Trường Đại học Công nghiệp Việt Hung",
     "Ma_Truong": "VHD",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://viu.edu.vn/",
     "Dia_Chi": "Đ1: Tầng 6, tòa nhà Hà Nội Center Point, số 27 Lê Văn Lương, quận Thanh Xuân, TP. Hà Nội Đ2: Khu A: Số 16 Hữu Nghị, Xuân Khanh, Sơn Tây, TP. Hà Nội\nĐ3: Khu Công nghiệp Bình Phú, huyện Thạch Thất, TP. Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Dược Hà Nội",
     "Ma_Truong": "DKH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.hup.edu.vn/",
     "Dia_Chi": "13 -15 Lê Thánh Tông, Quận Hoàn Kiếm, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Điện lực",
     "Ma_Truong": "DDL",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://www.epu.edu.vn/",
     "Dia_Chi": "Cơ sở 1: Số 235, Hoàng Quốc Việt, Bắc Từ Liêm, Hà Nội\nCơ sở 2: Xã Tân Minh, huyện Sóc Sơn, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Giao thông vận tải",
     "Ma_Truong": "GHA",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://utt.edu.vn/",
     "Dia_Chi": "54 Triều Khúc, Thanh Xuân, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Hà Nội",
     "Ma_Truong": "NHF",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.hanu.vn/vn/",
     "Dia_Chi": "Km 9, Đường Nguyễn Trãi, Quận Thanh Xuân, Hà Nội."
   },
   {
     "Ten_Truong": "Trường Đại học Khoa học và Công nghệ Hà Nội",
     "Ma_Truong": "KCN",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://www.usth.edu.vn/",
     "Dia_Chi": "Tòa nhà A21, Viện Hàn lâm Khoa học và Công nghệ Việt Nam, 18 Hoàng Quốc Việt, Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Kinh tế Kỹ thuật Công nghiệp",
     "Ma_Truong": "DKK",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://uneti.edu.vn/",
     "Dia_Chi": "Số 456 Minh Khai, P.Vĩnh Tuy, Q.Hai Bà Trưng, TP.Hà Nội Địa chỉ 2: Số 218 Đường Lĩnh Nam, Q.Hoàng Mai, TP.Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Kinh tế Quốc dân",
     "Ma_Truong": "KHA",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://www.neu.edu.vn/",
     "Dia_Chi": "207 Giải Phóng, Đồng Tâm, Quận Hai Bà Trưng, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Kiến trúc Hà Nội",
     "Ma_Truong": "KTA",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.hau.edu.vn/",
     "Dia_Chi": "Km 10, Đường Nguyễn Trãi, Quận Thanh Xuân, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Lao động Xã hội",
     "Ma_Truong": "DLX",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.ulsa.edu.vn/",
     "Dia_Chi": "43 Trần Duy Hưng, Trung Hòa, Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Lâm nghiệp",
     "Ma_Truong": "LNH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.vnuf.edu.vn/",
     "Dia_Chi": "Thị trấn Xuân Mai, huyện Chương Mỹ, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Luật Hà Nội",
     "Ma_Truong": "LPH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://hlu.edu.vn/",
     "Dia_Chi": "87 Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Mỏ Địa chất Hà Nội",
     "Ma_Truong": "MDA",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://ts.humg.edu.vn",
     "Dia_Chi": "Số 18 Phố Viên, phường Đức Thắng, quận Bắc Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Mỹ thuật Công nghiệp",
     "Ma_Truong": "MTC",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://mythuatcongnghiep.edu.vn/",
     "Dia_Chi": "360 La Thành, Quận Đống Đa, Hà Nội, Việt Nam"
   },
   {
     "Ten_Truong": "Trường Đại học Mỹ thuật Việt Nam",
     "Ma_Truong": "MTH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://mythuatvietnam.edu.vn/",
     "Dia_Chi": "42 Yết Kiêu, phường Cửa Nam, quận Hoàn Kiếm, thành phố Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Ngoại thương",
     "Ma_Truong": "NTH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://ftu.edu.vn/",
     "Dia_Chi": "91 Phố Chùa Láng, Láng Thượng, Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Nội vụ Hà Nội",
     "Ma_Truong": "DNV",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://truongnoivu.edu.vn/",
     "Dia_Chi": "Số 36 đường Xuân La, phường Xuân La, quận Tây Hồ, thành phố Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Nông nghiệp Hà Nội",
     "Ma_Truong": "HVN",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://www.vnua.edu.vn/",
     "Dia_Chi": "Thị trấn Trâu Quỳ, Gia Lâm, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Sân khấu Điện ảnh",
     "Ma_Truong": "SKD",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://skda.edu.vn/",
     "Dia_Chi": "Khu Văn hóa nghệ thuật Mai Dịch, phường Mai Dịch, Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Sư phạm Hà Nội",
     "Ma_Truong": "SPH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.hnue.edu.vn/",
     "Dia_Chi": "136 Xuân Thủy, Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Sư phạm Nghệ thuật Trung ương Hà Nội",
     "Ma_Truong": "GNT",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.spnttw.edu.vn/",
     "Dia_Chi": "Số 18, ngõ 55, đường Trần Phú, quận Hà Đông, TP. Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Sư phạm Thể dục thể thao Hà nội",
     "Ma_Truong": "TDH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://dhsptdtthanoi.edu.vn/",
     "Dia_Chi": "Phụng Châu, Chương Mỹ, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Tài nguyên và Môi trường Hà Nội",
     "Ma_Truong": "DMT",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://www.hunre.edu.vn/",
     "Dia_Chi": "41A đường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Thủy lợi",
     "Ma_Truong": "TLA",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.tlu.edu.vn/",
     "Dia_Chi": "175 Tây Sơn, Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Thương mại",
     "Ma_Truong": "TMU",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://tmu.edu.vn/",
     "Dia_Chi": "79 Đường Hồ Tùng Mậu, phường Mai Dịch, quận Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Văn hóa Hà Nội",
     "Ma_Truong": "VHH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.huc.edu.vn/",
     "Dia_Chi": "Số 418, đường La Thành, phường Ô Chợ Dừa, quận Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Xây dựng",
     "Ma_Truong": "XDA",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://nuce.edu.vn/",
     "Dia_Chi": "55 đường Giải Phóng, quận Hai Bà Trưng, Hà Nội."
   },
   {
     "Ten_Truong": "Trường Đại học Y Hà Nội",
     "Ma_Truong": "YHB",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://hmu.edu.vn/",
     "Dia_Chi": "Số 1 Tôn Thất Tùng, Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Y tế Công cộng",
     "Ma_Truong": "YTC",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.huph.edu.vn/",
     "Dia_Chi": "Số 1A, đường Đức Thắng, phường Đức Thắng, quận Bắc Từ Liêm, thành phố Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Đông Đô ",
     "Ma_Truong": "DDD",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.hdiu.edu.vn//",
     "Dia_Chi": "Km25, Quốc lộ 6, Phú Nghĩa, Chương Mỹ, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Phương Đông ",
     "Ma_Truong": "DPD",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://phuongdong.edu.vn/",
     "Dia_Chi": "Cơ sở 1: 171 Trung Kính, Yên Hòa, Cầu Giấy, Hà Nội\nCơ sở 2: Số 4 Ngõ Chùa Hưng Ký, phố Minh Khai, Quận Hai Bà Trưng, Thành phố Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Thăng Long ",
     "Ma_Truong": "DTL",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://thanglong.edu.vn/",
     "Dia_Chi": "Đường Nghiêm Xuân Yêm - Đại Kim - Hoàng Mai - Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Đại Nam ",
     "Ma_Truong": "DDN",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://dainam.edu.vn/",
     "Dia_Chi": "Số 1 Phố Xốm, Phú Lãm, Hà Đông, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học FPT (Cơ sở Hà Nội)",
     "Ma_Truong": "FPT",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://hanoi.fpt.edu.vn/",
     "Dia_Chi": "Khu Giáo dục và Đào tạo - Khu Công nghệ cao Hòa Lạc, Km29 Đại lộ Thăng Long, Thạch Thất, TP. Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Hòa Bình",
     "Ma_Truong": "ETU",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://daihochoabinh.edu.vn/",
     "Dia_Chi": "Địa chỉ: Số 8 Bùi Xuân Phái, Mỹ Đình II, Nam Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Kinh doanh và Công nghệ Hà Nội ",
     "Ma_Truong": "DQK",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://hubt.edu.vn/",
     "Dia_Chi": "Số 29A, Ngõ 124, phố Vĩnh Tuy, quận Hai Bà Trưng, TP Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Nguyễn Trãi ",
     "Ma_Truong": "NTU",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://daihocnguyentrai.edu.vn/",
     "Dia_Chi": "Cơ sở 1: 266 Đội Cấn, Ba Đình, Hà Nội\nCơ sở 2: 36A Phạm Văn Đồng, Bắc Từ Liêm, Hà Nội \nCơ sở 3: Số 28A Lê Trọng Tấn, Hà Đông, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Đại học Quốc tế Bắc Hà ",
     "Ma_Truong": "DBH",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://iubh.edu.vn",
     "Dia_Chi": "Phòng 202, Tòa nhà Viện Công Nghệ, Số 25 Vũ Ngọc Phan"
   },
   {
     "Ten_Truong": "Trường Đại học Tài chính Ngân hàng Hà Nội",
     "Ma_Truong": "FBU",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://fbu.edu.vn/",
     "Dia_Chi": "136 -138 Phạm Văn Đồng, phường Xuân Đỉnh, Q. Bắc Từ Liêm, Hà Nội"
   },
   {
-    "Ten_Truong": null,
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": null,
-    "Website": null,
-    "Dia_Chi": null
-  },
-  {
     "Ten_Truong": "Trường Đại học Phenikaa",
     "Ma_Truong": "PKA",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://phenikaa-uni.edu.vn/",
     "Dia_Chi": "Phường Yên Nghĩa, Quận Hà Đông, Hà Nội"
   },
   {
+    "Ten_Truong": "Trường Đại học Thành Đô ",
+    "Ma_Truong": "TDD",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://thanhdo.edu.vn",
+    "Dia_Chi": "Kim Chung - Hoài Đức - Hà Nội"
+  },
+  {
     "Ten_Truong": "Trường Đại học Công nghệ và Quản lý Hữu nghị ",
     "Ma_Truong": "DCQ",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://utm.edu.vn",
     "Dia_Chi": "Lô 1-4, số 431 Tam Trinh, Hoàng Mai, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Sĩ quan Pháo binh",
-    "Ma_Truong": "LBH",
-    "Ma_Loai_Hinh": 3.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Truong": "PBH",
+    "Ma_Loai_Hinh": 3,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://tsqpb.edu.vn/",
     "Dia_Chi": "Thanh Mỹ, Sơn Tây, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Sĩ quan Phòng hóa",
     "Ma_Truong": "HGH",
-    "Ma_Loai_Hinh": 3.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 3,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.siquanphonghoa.edu.vn/",
     "Dia_Chi": "Xã Sơn Đông, Sơn Tây, Hà Nội"
   },
   {
     "Ten_Truong": "Trường Sĩ quan Đặc công",
     "Ma_Truong": "DCH",
-    "Ma_Loai_Hinh": 3.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 3,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://tsqdc.edu.vn/",
     "Dia_Chi": "Thị trấn Xuân Mai, huyện Chương Mỹ, Hà Nội"
   },
   {
     "Ten_Truong": "Đại học Á Châu",
     "Ma_Truong": "MCA",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://mythuatcongnghiepachau.edu.vn/",
     "Dia_Chi": "Số 36 Đường Mạc Thái Tổ, Nam Trung Yên, Yên Hòa, Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Đại học Anh quốc Việt Nam",
     "Ma_Truong": "BUV",
-    "Ma_Loai_Hinh": 2.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://www.buv.edu.vn/",
     "Dia_Chi": "Hà Nội Campus: Tầng 5, Toà nhà CDC, 25-27 Lê Đại Hành, Hai Bà Trưng, Hà Nội Ecopark Campus: Khu đô thị Ecopark, Hưng Yên"
   },
   {
     "Ten_Truong": "Học viện Âm nhạc Quốc gia Việt Nam",
     "Ma_Truong": "NVH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://www.vnam.edu.vn/",
     "Dia_Chi": "77 Hào Nam, Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Báo chí Tuyên truyền",
     "Ma_Truong": "HBT",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://ajc.hcma.vn",
     "Dia_Chi": "36 Xuân Thủy - Cầu Giấy - Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Chính sách và Phát triển",
     "Ma_Truong": "HCP",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://apd.edu.vn/",
     "Dia_Chi": "Tòa Nhà Bộ Kế hoạch và Đầu tư, Ngõ 7, Tôn Thất Thuyết, Cầu giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Công nghệ Bưu chính Viễn thông",
     "Ma_Truong": "BVH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://ptit.edu.vn",
     "Dia_Chi": "122 Hoàng Quốc Việt, Q.Cầu Giấy, Hà Nội. Cơ sở đào tạo tại Hà Nội: Km10, đường Nguyễn Trãi, quận Hà Đông, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Hành chính Quốc gia",
     "Ma_Truong": "HCH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://www1.napa.vn/",
     "Dia_Chi": "77 Nguyễn Chí Thanh, Q. Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Kỹ thuật Mật mã",
     "Ma_Truong": "KMA",
-    "Ma_Loai_Hinh": 3.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 3,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://actvn.edu.vn/",
     "Dia_Chi": "141 đường Chiến Thắng, Tân Triều, Thanh Trì, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Ngân hàng",
     "Ma_Truong": "NHH",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://hvnh.edu.vn",
     "Dia_Chi": "Số 12, đường Chùa Bộc, Quận Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Ngoại giao",
     "Ma_Truong": "HQT",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://dav.edu.vn/",
     "Dia_Chi": "69 Phố Chùa Láng, Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Quản lý Giáo dục",
     "Ma_Truong": "HVQ",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "http://naem.edu.vn/",
     "Dia_Chi": "31 Phan Đình Giót - Thanh Xuân - Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Tài chính",
     "Ma_Truong": "HTC",
-    "Ma_Loai_Hinh": 1.0,
-    "Ma_Tinh_Thanh": 1.0,
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
     "Website": "https://hvtc.edu.vn/",
     "Dia_Chi": "Số 58 Lê Văn Hiến, Phường Đức Thắng, Quận Bắc Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Thanh Thiếu niên Việt Nam",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "HTN",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://vya.edu.vn/",
+    "Dia_Chi": "58 Nguyễn Chí Thanh, phường Láng Thượng, quận Đống Đa, Tp. Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Y Dược học cổ truyền Việt Nam",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "HYD",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://vutm.edu.vn/",
+    "Dia_Chi": "Số 2, Trần Phú, Hà Đông, Hà Nội"
   },
   {
     "Ten_Truong": "Viện Đại học Mở Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "MHN",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://www.hou.edu.vn/",
+    "Dia_Chi": "Nhà B101, đường Nguyễn Hiền, quận Hai Bà Trưng, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Nông nghiệp Việt Nam",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "HVN",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://www.vnua.edu.vn/",
+    "Dia_Chi": "Thị trấn Trâu Quỳ, Gia Lâm, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Phòng không - Không quân",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "PKH",
+    "Ma_Loai_Hinh": 3,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://hocvienpkkq.com/",
+    "Dia_Chi": "Xã Kim Sơn, thị xã Sơn Tây, thành phố Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Phụ nữ Việt Nam",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "HPN",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.hvpnvn.edu.vn/",
+    "Dia_Chi": "68 Nguyễn Chí Thanh, Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Quản lý Giáo dục",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "HVQ",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://naem.edu.vn/",
+    "Dia_Chi": "31 Phan Đình Giót - Thanh Xuân - Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Quân y",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "YQH",
+    "Ma_Loai_Hinh": 3,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://hocvienquany.vn",
+    "Dia_Chi": "Số 160, Phùng Hưng, phường Phúc La, quận Hà Đông, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Thiết kế và Thời trang London",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "LCFS",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.designstudies.vn/",
+    "Dia_Chi": "98 Tô Ngọc Vân, Quảng An, Tây Hồ, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Tòa án",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
-  },
-  {
-    "Ten_Truong": "Học viện Tư pháp",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "HTA",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://hvta.toaan.gov.vn",
+    "Dia_Chi": "Đường 282 Kim Sơn, Gia Lâm, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Chính trị Công an nhân dân",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "HCA",
+    "Ma_Loai_Hinh": 3,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://hvctcand.edu.vn/",
+    "Dia_Chi": "Số 29 đường Lê Văn Hiến, phường Đức Thắng, quận Bắc Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Dân tộc",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "HVD",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://hvdt.edu.vn/",
+    "Dia_Chi": "Khu đô thị Dream Town, đường 70, phường Tây Mỗ, quận Nam Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Hậu cần",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "HEH",
+    "Ma_Loai_Hinh": 3,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://hocvienhaucan.edu.vn/",
+    "Dia_Chi": "Phường Ngọc Thụy, quận Long Biên, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Khoa học Quân sự",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "NQH",
+    "Ma_Loai_Hinh": 3,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.hvkhqs.edu.vn/",
+    "Dia_Chi": "Kim Chung, Hoài Đức, Hà Nội 322E, Lê Trọng Tấn, Định Công, Hoàng Mai, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Kỹ thuật Mật mã (cơ sở phía Bắc)",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "KMA",
+    "Ma_Loai_Hinh": 3,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://actvn.edu.vn/",
+    "Dia_Chi": "141 đường Chiến Thắng, Tân Triều, Thanh Trì, Hà Nội"
   },
   {
     "Ten_Truong": "Học viện Kỹ thuật Quân sự",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "KQH",
+    "Ma_Loai_Hinh": 3,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://mta.edu.vn/",
+    "Dia_Chi": "236 Hoàng Quốc Việt, Bắc Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Cơ điện Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0105",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://codienhanoi.edu.vn",
+    "Dia_Chi": "Cơ sở 1: 160 Mai dịch - Cầu giấy - Hà Nội (Trụ sở chính)\nCơ sở 2: 111 Phan Trọng Tuệ - Văn điển - Thanh trì - Hà Nội "
   },
   {
     "Ten_Truong": "Cao đẳng Công nghệ Bách khoa Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0308",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://bachkhoahanoi.edu.vn/",
+    "Dia_Chi": "Số 18-20/322 Nhân Mỹ - Mỹ Đình 1 - Quận Nam Từ Liêm - TP. Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Công nghệ và Kinh tế Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0138",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://hncte.edu.vn/",
+    "Dia_Chi": "Xã Đông Xuân - Huyện Sóc Sơn - Hà Nội."
   },
   {
     "Ten_Truong": "Cao đẳng Công nghệ và Môi trường Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CMT",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://htec.edu.vn/",
+    "Dia_Chi": "Số 30A Vũ Hữu, Thanh Xuân Bắc, Thanh Xuân, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Công nghệ và Thương mại Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD00139",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://htt.edu.vn/",
+    "Dia_Chi": "252 Hạ Hội, Tân Lập, Đan Phượng, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Công nghiệp In",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CCI",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.cdcnin.edu.vn/",
+    "Dia_Chi": "Đường Cầu Diễn, phường Phúc Diễn, Bắc Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Công thương Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0141",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://hcit.edu.vn/",
+    "Dia_Chi": "Số 54A1, đường Vũ Trọng Phụng, quận Thanh Xuân, thành phố Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Cộng đồng Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CHN",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.chn.edu.vn/",
+    "Dia_Chi": "102 Trung Kính, Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Cộng đồng Hà Tây",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0132",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://htcc.edu.vn/",
+    "Dia_Chi": "Thủy Xuân Tiên, Chương Mỹ, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Du lịch Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0126",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.htc.edu.vn/",
+    "Dia_Chi": "236 Hoàng Quốc Việt, Phường Cổ Nhuế 1, Q. Bắc Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng FPT Polytechnic",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDFPT_#",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://caodang.fpt.edu.vn/",
+    "Dia_Chi": "Tòa nhà FPT Polytechnic (nhà H), Hàm Nghi, Mỹ Đình, Nam Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Giao thông Vận tải Trung ương I",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0113",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://gtvttw1.edu.vn/",
+    "Dia_Chi": "Xã Thụy An, huyện Ba Vì, TP. Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Hùng Vương Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
-  },
-  {
-    "Ten_Truong": "Cao đẳng Kinh doanh và Công nghệ Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0114",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://caodanghungvuong.edu.vn/",
+    "Dia_Chi": "Số 401 - Đường Âu Cơ - Phường Nhật Tân - Quận Tây Hồ - Hà Nội (Gần cổng Công viên nước Hồ Tây)"
   },
   {
     "Ten_Truong": "Cao đẳng Kinh tế - Kỹ thuật Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CKN",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.hcet.edu.vn",
+    "Dia_Chi": "Số 247, đường Vũ Tông Phan, phường Khương Trung, quận Thanh Xuân, TP. Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Kinh tế - Kỹ thuật Thương mại",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0142",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://ctet.edu.vn",
+    "Dia_Chi": "Phường Phú Lãm, quận Hà Đông, thành phố Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Kinh tế Công nghệ Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0121",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://ktcnhn.edu.vn/",
+    "Dia_Chi": "Đường Văn Tiến Dũng, Phường Minh Khai, Bắc Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Kinh tế Công nghiệp Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CCK",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.hiec.edu.vn/",
+    "Dia_Chi": "Trụ sở chính: 143 Nguyễn Ngọc Vũ - Trung Hòa - Cầu Giấy - Hà Nội\nCơ sở 2: 106 Tả Thanh Oai - Thanh Trì - Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Kinh tế Kỹ thuật Trung ương",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0140",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://netc-vca.edu.vn/",
+    "Dia_Chi": "Dương Xá - Gia Lâm - Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Kỹ thuật - Mỹ nghệ Việt Nam",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0110",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.vcth.edu.vn",
+    "Dia_Chi": "Xã Dương Xá, huyện Gia Lâm, TP. Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Múa Việt Nam",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0133",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://cdmuavn.edu.vn/",
+    "Dia_Chi": "Khu Văn hoá Nghệ thuật, Đường Hồ Tùng Mậu, Phường Mai Dịch, Quận Cầu Giấy, Thành Phố Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng nghề Bách khoa Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0120",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.hactech.edu.vn/",
+    "Dia_Chi": "Số 92A, Lê Thanh Nghị, Hai Bà Trưng, Hà Nội\nSố 15A, Tạ Quang Bửu, Hai Bà Trưng, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng nghề Công nghệ cao Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0118",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://hht.edu.vn/",
+    "Dia_Chi": "Phường Tây Mỗ, quận Nam Từ Liêm, TP. Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng nghề Công nghiệp Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0101",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.hnivc.edu.vn/",
+    "Dia_Chi": "131 Thái Thịnh, Đống Đa, TP. Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng nghề Công thương Việt Nam (Cơ sở Hà Nội)",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD1204",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://vci.edu.vn/",
+    "Dia_Chi": "Khu đô thị mới Nghĩa Đô - Ngõ 106 Hoàng Quốc Việt- Cổ Nhuế 1 - Bắc Từ Liêm - Hà Nội\nĐường Lê Đức Thọ - Mỹ Đình 2 - Nam Từ Liêm - TP. Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Nghề Kỹ thuật Công nghệ",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0104",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "www.httc.edu.vn",
+    "Dia_Chi": "Tổ 27, Thị trấn Đông Anh, Huyện Đông Anh, Thành phố Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng nghề Kỹ thuật và Nghiệp vụ Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0124",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://hatechs.edu.vn/",
+    "Dia_Chi": "169 Nguyễn Ngọc Vũ, Trung Hòa, Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng nghề Long Biên",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0112",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://longbiencollege.edu.vn/",
+    "Dia_Chi": "765A Nguyễn Văn Linh, Sài Đồng, Long Biên, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Nghệ thuật Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0136",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.nghethuathanoi.edu.vn/",
+    "Dia_Chi": "Số 7 Hai Bà Trưng, Hoàn Kiếm, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng nghề Trần Hưng Đạo",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0109",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "www.caodangtranhungdao.vn",
+    "Dia_Chi": "Số 7 – đường Mỹ Đình – Phường Mỹ Đình 2 – Quận Nam Từ Liêm – Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng nghề Việt Nam - Hàn Quốc thành phố Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
-  },
-  {
-    "Ten_Truong": "Cao đẳng Nội vụ Hà Nội (Thuộc Đại học Nội vụ Hà Nội)",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0126",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": ": https://cdviethanhanoi.edu.vn/",
+    "Dia_Chi": "Đường Uy Nỗ, thị trấn Đông Anh, Đông Anh, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Nông nghiệp và Phát triển nông thôn Bắc Bộ",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0127",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://vcard.edu.vn/",
+    "Dia_Chi": "Km 36, thị trấn Xuân Mai, huyện Chương Mỹ, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Phát thanh - Truyền hình I",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
-  },
-  {
-    "Ten_Truong": "Cao đẳng Phú Châu",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT2402",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://edu.vov.vn/",
+    "Dia_Chi": "Nhà A10, Ngõ 128C, Đại La, P. Đồng Tâm, Q. Hai Bà Trưng, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Quốc tế BTEC FPT (Cơ sở Hà Nội)",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "BTECFPT",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://btec.fpt.edu.vn/",
+    "Dia_Chi": "Tòa BTEC FPT, Trịnh Văn Bô, Nam Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Quốc tế Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0123",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://quoctehanoi.edu.vn/",
+    "Dia_Chi": "Cơ sở 1: Đông Yên, Quốc Oai, Hà Nội;\nCơ sở 2: Số 1, đường Trịnh Văn Bô - Phương Canh - Nam Từ Liêm - Hà Nội."
   },
   {
     "Ten_Truong": "Cao đẳng Quốc tế Pegasus",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0411",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://pegasus.edu.vn/",
+    "Dia_Chi": "Số 2/2C Khu Ngoại Giao Đoàn Vạn Phúc, phố Kim Mã, Ba Đình, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Sư phạm Hà Tây",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "C20",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.cdsphthn.edu.vn/",
+    "Dia_Chi": "Thị trấn Thường Tín, huyện Thường Tín, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Sư phạm Trung ương",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CM1",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://cdsptw.edu.vn/",
+    "Dia_Chi": "387 Hoàng Quốc Việt - Cầu Giấy - Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Truyền hình Việt Nam",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0131",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://ctv.vtv.vn/",
+    "Dia_Chi": "Số 137 Trần phú -Thị trấn Thường Tín - Huyện Thường Tín - Thành phố Hà Nội."
   },
   {
     "Ten_Truong": "Cao đẳng Xây dựng Công trình Đô thị (Cơ sở Hà Nội)",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0128",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.cuwc.edu.vn",
+    "Dia_Chi": "xã Yên Thường, huyện Gia Lâm, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Xây dựng số 1",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0129",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://ctc1.edu.vn/",
+    "Dia_Chi": "Đường Trung Văn - phường Trung Văn - quận Nam Từ Liêm - TP. Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Y - Dược Asean",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD2291",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://cdasean.edu.vn/",
+    "Dia_Chi": "Lô TH2 KĐT Cổ Nhuế, phường Cổ Nhuế 1, quận Bắc Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Y Dược Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD1919",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://cdyduochanoi.edu.vn/",
+    "Dia_Chi": "Số 225, đường Trường Chinh, Thanh Xuân, Hà Nội – Hotline: 0963 918 333"
   },
   {
     "Ten_Truong": "Cao đẳng Y Dược Pasteur",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD1301",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://truongcaodangyduocpasteur.edu.vn/",
+    "Dia_Chi": "Số 212 Hoàng Quốc Việt, Cầu Giấy, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Y Khoa Phạm Ngọc Thạch",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CBK",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://caodangyduocphamngocthach.vn/",
+    "Dia_Chi": "Km14 Đường Ngọc Hồi - Xã Ngọc Hồi - Huyện Thanh Trì - TP. Hà Nội (Toà nhà Hoàng Sơn, Đường CN 10, khu Công nghiệp Ngọc Hồi)."
   },
   {
     "Ten_Truong": "Cao đẳng Y tế Bạch Mai",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CBM",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://bmmc.edu.vn",
+    "Dia_Chi": "78 Đường Giải Phóng, Phương Mai, Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Y tế Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0134",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://hmc.edu.vn/",
+    "Dia_Chi": "Cơ sở I: Số 35 P. Đoàn Thị Điểm - Q. Đống Đa - TP. Hà Nội\nCơ sở II: Số 103 P. Phúc Xá - Q. Ba Đình - TP. Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Y tế Hà Đông",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0135",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://www.cdythadong.edu.vn/",
+    "Dia_Chi": "Số 39 Nguyễn Viết Xuân, Quang Trung, Hà Đông, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Y tế và Thiết bị Việt Đức",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0107",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "https://caodangyvietduc.edu.vn/",
+    "Dia_Chi": "Cơ sở 1: Số 40 Tràng Thi, Hoàn Kiếm, Hà Nội\nCơ sở 2: Số 1 ngõ 89, Lương Định Của, Đống Đa, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Y tế Đặng Văn Ngữ",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0141",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://ytdvn.edu.vn/",
+    "Dia_Chi": "Số 36 Trung Văn, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Điện lực miền Bắc",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDT0103",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://nepc.edu.vn/",
+    "Dia_Chi": "Cơ sở 1: Tân Dân, Sóc Sơn, Hà Nội\nCơ sở 2: Yên Viên, Gia Lâm, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Điện tử - Điện lạnh Hà Nội",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CLH",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://dtdl.edu.vn",
+    "Dia_Chi": "Số 10, đường Nguyễn Văn Huyên, phường Dịch Vọng, quận Cầu Giấy, thành phố Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Đường sắt (Cơ sở Hà Nội)",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": 1.0,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD0106",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://caodangduongsat.edu.vn/",
+    "Dia_Chi": "Số 2, ngõ 167, Gia Quất, Thượng Thanh, Long Biên, Hà Nội"
   },
   {
     "Ten_Truong": "Cao đẳng Đại Việt",
-    "Ma_Truong": null,
-    "Ma_Loai_Hinh": null,
-    "Ma_Tinh_Thanh": null,
-    "Website": null,
-    "Dia_Chi": null
+    "Ma_Truong": "CDD1907",
+    "Ma_Loai_Hinh": 2,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://dvc.edu.vn/",
+    "Dia_Chi": "44 Nguyễn Cơ Thạch, P. Cầu Diễn, Q. Nam Từ Liêm, Hà Nội."
+  },
+  {
+    "Ten_Truong": "Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn",
+    "Ma_Truong": "LAH",
+    "Ma_Loai_Hinh": 1,
+    "Ma_Tinh_Thanh": 1,
+    "Website": "http://daihoctranquoctuan.vn/Portal/TrangChu.html",
+    "Dia_Chi": "Xã Cổ Đông, thị xã Sơn Tây, thành phố Hà Nội"
   }
 ]
