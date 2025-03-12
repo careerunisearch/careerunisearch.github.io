@@ -28,7 +28,7 @@ function Header() {
             target="_blank"
             className="header_menu_container_item"
           >
-            Góp ý
+            Góp ý & Phản hồi
           </a>
         </div>
       </div>
