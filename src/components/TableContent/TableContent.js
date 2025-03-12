@@ -202,6 +202,7 @@ function TableContent({
                   return filterMajor.includes(nganh);
                 })) &&
             ((filterExamBlock[0] === "0" && filterExamBlock.length === 1) ||
+              filterExamBlock.length == 0 ||
               major.Khoi_Thi.split(", ")
                 .map((n) => n.trim()) // Đảm bảo loại bỏ khoảng trắng dư thừa
                 .some((khoiThi) => {
