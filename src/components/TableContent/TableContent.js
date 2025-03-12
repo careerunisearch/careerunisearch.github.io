@@ -147,7 +147,9 @@ function TableContent({
       })
       .filter((uni) => uni.majors.length > 0); // Chỉ giữ lại trường có ngành phù hợp
 
-    setLastDataDisplay(filteredData);
+    const start = (page - 1) * limit;
+    const end = start + limit;
+    setLastDataDisplay(filteredData.slice(start, end));
     setTrigger(filteredData.length > 0);
     setLastData(filteredData);
     setTotalItems(filteredData.length);
