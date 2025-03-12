@@ -125,6 +125,7 @@ function TableContent({
 
   // lọc bằng tìm kiếm
   useEffect(() => {
+    if (filterCode.length == 0) return;
     setLoading(true);
 
     const startTime = Date.now(); // Lưu thời điểm bắt đầu
@@ -161,6 +162,7 @@ function TableContent({
 
   // Hàm lọc danh sách trường theo 8 tiêu chí
   useEffect(() => {
+    if (filterCode.length > 0) return;
     setLoading(true);
 
     const startTime = Date.now(); // Lưu thời điểm bắt đầu

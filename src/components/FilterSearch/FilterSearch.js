@@ -140,12 +140,12 @@ function FilterSearch({
 
     const results = list.filter(
       ([key, value]) =>
-        key.toLowerCase().includes(search.toLowerCase()) ||
-        value.toLowerCase().includes(search.toLowerCase())
+        key.toLowerCase().startsWith(selectedValues.toLowerCase()) ||
+        value.toLowerCase().includes(selectedValues.toLowerCase())
     );
 
     setFilteredUniversities(results);
-    setShowDropdown(filteredUniversities.length > 0);
+    setShowDropdown(results.length > 0);
   };
 
   const handleSelect = ([key, value]) => {
@@ -159,7 +159,6 @@ function FilterSearch({
     setShowDropdown(false);
     const keysArray = filteredUniversities.map(([key, _]) => key);
     appHandleCodeChange([...keysArray]);
-    console.log("xin chao");
   };
 
   const handleKeyDown = (e) => {
@@ -189,6 +188,7 @@ function FilterSearch({
               handleMethodChange(["0"]);
               handleTuitionChange([]);
               handleScoreChange([]);
+              appHandleCodeChange([]);
 
               setSelectedProvinces(["1"]);
               setSelectedType([]);
@@ -222,7 +222,7 @@ function FilterSearch({
               handleTuitionChange([]);
               handleScoreChange([]);
 
-              setSelectedProvinces(["1"]);
+              setSelectedProvinces(["0"]); // cài tất cả các trường ở các tình thành trong phần tìm kiếm theo tên
               setSelectedType([]);
               setSelectedMajor([]);
               setSelectedExamBlock([]);
