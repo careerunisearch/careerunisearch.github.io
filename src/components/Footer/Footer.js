@@ -41,7 +41,7 @@ function Footer() {
           <i class="fa-solid fa-envelope"></i>
         </a>
       </div>
-      <div className="footer_copyright">Copyright © Team BrotherHood 2024</div>
+      <div className="footer_copyright">Copyright © Team BrotherHood 2025</div>
     </div>
   );
 }
