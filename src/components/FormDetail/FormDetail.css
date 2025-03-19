@@ -1,3 +1,7 @@
+.form-detail {
+  max-width: 1356px;
+}
+
 .form-detail_data {
   margin: 0 24px;
 }
@@ -124,12 +128,6 @@
   display: none;
 }
 
-.form-detail_data_detail_info_address {
-  display: flex;
-  flex-direction: column;
-  line-height: 1.6;
-}
-
 .form-detail_data_detail_info::-webkit-scrollbar {
   width: 4px;
 }
@@ -166,6 +164,17 @@
 
 .form-detail_data_detail_info a:hover {
   text-decoration: underline;
+}
+
+.form-detail_data_detail_info_address {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.6;
+}
+
+.form-detail_data_detail_info_address p {
+  width: 580px;
+  margin: 6px 0;
 }
 
 .form-detail_data_detail_body {

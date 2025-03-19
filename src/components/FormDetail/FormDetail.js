@@ -68,7 +68,7 @@ function FormDetail({
               <p>Địa Chỉ: </p>
               <div className="form-detail_data_detail_info_address">
                 {data.Dia_Chi.split("\n").map((line, index) => (
-                  <span key={index}>{line}</span>
+                  <p key={index}>{line}</p>
                 ))}
               </div>
             </div>
@@ -80,14 +80,16 @@ function FormDetail({
             </div>
             <div className="form-detail_data_detail_info">
               <p>Nguồn điểm chuẩn: </p>
+              {console.log(source[data.Ma_Truong]?.[0]?.TSA)}
               <a
                 href={source[data.Ma_Truong]?.[0]?.TSA}
                 target="_blank"
                 rel="noopener noreferrer"
                 className={
-                  source[data.Ma_Truong]?.[0]?.TSA != null
-                    ? "form-detail_data_detail_info_link"
-                    : "form-detail_data_detail_info_link disable"
+                  source[data.Ma_Truong]?.[0]?.TSA != null &&
+                  source[data.Ma_Truong]?.[0]?.TSA == ""
+                    ? "form-detail_data_detail_info_link disable"
+                    : "form-detail_data_detail_info_link"
                 }
               >
                 TSA
@@ -97,9 +99,10 @@ function FormDetail({
                 target="_blank"
                 rel="noopener noreferrer"
                 className={
-                  source[data.Ma_Truong]?.[0]?.DGNL != null
-                    ? "form-detail_data_detail_info_link"
-                    : "form-detail_data_detail_info_link disable"
+                  source[data.Ma_Truong]?.[0]?.DGNL != null &&
+                  source[data.Ma_Truong]?.[0]?.DGNL == ""
+                    ? "form-detail_data_detail_info_link disable"
+                    : "form-detail_data_detail_info_link"
                 }
               >
                 ĐGNL
@@ -109,9 +112,10 @@ function FormDetail({
                 target="_blank"
                 rel="noopener noreferrer"
                 className={
-                  source[data.Ma_Truong]?.[0]?.TN_THPT != null
-                    ? "form-detail_data_detail_info_link"
-                    : "form-detail_data_detail_info_link disable"
+                  source[data.Ma_Truong]?.[0]?.TN_THPT != null &&
+                  source[data.Ma_Truong]?.[0]?.TN_THPT == ""
+                    ? "form-detail_data_detail_info_link disable"
+                    : "form-detail_data_detail_info_link"
                 }
               >
                 TN THPT
@@ -124,9 +128,10 @@ function FormDetail({
                 target="_blank"
                 rel="noopener noreferrer"
                 className={
-                  source[data.Ma_Truong]?.[0]?.Hoc_Phi != null
-                    ? "form-detail_data_detail_info_link"
-                    : "form-detail_data_detail_info_link disable"
+                  source[data.Ma_Truong]?.[0]?.Hoc_Phi != null &&
+                  source[data.Ma_Truong]?.[0]?.Hoc_Phi == ""
+                    ? "form-detail_data_detail_info_link disable"
+                    : "form-detail_data_detail_info_link"
                 }
               >
                 Học phí

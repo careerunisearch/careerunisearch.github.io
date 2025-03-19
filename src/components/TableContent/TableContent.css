@@ -14,7 +14,7 @@
 }
 
 .table-content {
-  min-width: 1260px;
+  width: 1260px;
   min-height: auto;
   margin: 0 48px;
   background-color: var(--background-color-1);
