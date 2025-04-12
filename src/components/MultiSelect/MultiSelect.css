@@ -56,7 +56,7 @@
 
 .multi-select_filter-drop.active {
   display: inline;
-  animation: fadeIn 0.8s ease-in-out forwards;
+  animation: fadeIn 0.2s ease-in-out forwards;
 }
 
 .multi-select_filter-drop {
